@@ -343,3 +343,6 @@
 [submodule "themes/discourse-timefuser"]
 	path = themes/discourse-timefuser
 	url = https://github.com/kurozael/discourse-timefuser
+[submodule "themes/discourse-group-timezones"]
+	path = themes/discourse-group-timezones
+	url = git@github.com:discourse/discourse-group-timezones.git
