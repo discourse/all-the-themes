@@ -346,3 +346,6 @@
 [submodule "themes/discourse-group-timezones"]
 	path = themes/discourse-group-timezones
 	url = git@github.com:discourse/discourse-group-timezones.git
+[submodule "themes/discourse-focused-sidebar"]
+	path = themes/discourse-focused-sidebar
+	url = https://github.com/discourse/discourse-focused-sidebar.git
