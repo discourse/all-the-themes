@@ -346,6 +346,18 @@
 [submodule "themes/discourse-group-timezones"]
 	path = themes/discourse-group-timezones
 	url = git@github.com:discourse/discourse-group-timezones.git
-[submodule "themes/discourse-focused-sidebar"]
-	path = themes/discourse-focused-sidebar
-	url = https://github.com/discourse/discourse-focused-sidebar.git
+[submodule "themes/fireside-player"]
+	path = themes/fireside-player
+	url = https://github.com/justindirose/fireside-player
+[submodule "themes/discourse-snow-theme"]
+	path = themes/discourse-snow-theme
+	url = https://github.com/davidtaylorhq/discourse-snow-theme
+[submodule "themes/discourse-segment-theme-component"]
+	path = themes/discourse-segment-theme-component
+	url = https://github.com/scossar/discourse-segment-theme-component
+[submodule "themes/discourse-users-nav"]
+	path = themes/discourse-users-nav
+	url = https://github.com/SamSaffron/discourse-users-nav
+[submodule "themes/discourse-category-icons"]
+	path = themes/discourse-category-icons
+	url = https://github.com/pmusaraj/discourse-category-icons
