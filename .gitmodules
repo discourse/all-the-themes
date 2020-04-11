@@ -361,3 +361,6 @@
 [submodule "themes/discourse-category-icons"]
 	path = themes/discourse-category-icons
 	url = https://github.com/pmusaraj/discourse-category-icons
+[submodule "themes/discourse-quick-quote"]
+	path = themes/discourse-quick-quote
+	url = git@github.com:merefield/discourse-quick-quote.git
