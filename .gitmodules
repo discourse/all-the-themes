@@ -193,9 +193,6 @@
 [submodule "themes/discourse-omit-emoji"]
 	path = themes/discourse-omit-emoji
 	url = https://github.com/tshenry/discourse-omit-emoji
-[submodule "themes/discourse-defer"]
-	path = themes/discourse-defer
-	url = https://github.com/discourse/discourse-defer
 [submodule "themes/discourse-theme-hibiscus"]
 	path = themes/discourse-theme-hibiscus
 	url = https://github.com/discourse/discourse-theme-hibiscus.git
