@@ -12,7 +12,7 @@
 	url = https://github.com/tshenry/discourse-versatile-banner
 [submodule "themes/Fakebook"]
 	path = themes/Fakebook
-	url = https://github.com/awesomerobot/Fakebook
+	url = https://github.com/discourse/Fakebook
 [submodule "themes/discourse-search-banner"]
 	path = themes/discourse-search-banner
 	url = https://github.com/awesomerobot/discourse-search-banner
@@ -51,10 +51,10 @@
 	url = https://github.com/awesomerobot/discourse-sidebar-nav
 [submodule "themes/Discourse-nav-links-component"]
 	path = themes/Discourse-nav-links-component
-	url = https://github.com/hnb-ku/Discourse-nav-links-component
+	url = https://github.com/discourse/Discourse-nav-links-component
 [submodule "themes/discourse-new-topic-button-theme-component"]
 	path = themes/discourse-new-topic-button-theme-component
-	url = https://github.com/hnb-ku/discourse-new-topic-button-theme-component
+	url = https://github.com/discourse/discourse-new-topic-button-theme-component
 [submodule "themes/discourse-user-menu-tab"]
 	path = themes/discourse-user-menu-tab
 	url = https://github.com/awesomerobot/discourse-user-menu-tab
@@ -81,7 +81,7 @@
 	url = https://github.com/pmusaraj/discourse-tag-icons
 [submodule "themes/discourse-header-links"]
 	path = themes/discourse-header-links
-	url = https://github.com/hnb-ku/discourse-header-links
+	url = https://github.com/discourse/discourse-header-links
 [submodule "themes/discourse-three-columns-banner"]
 	path = themes/discourse-three-columns-banner
 	url = https://github.com/discourse/discourse-three-columns-banner
@@ -129,13 +129,13 @@
 	url = https://github.com/angusmcleod/discourse-header-search-theme
 [submodule "themes/discourse-post-badges"]
 	path = themes/discourse-post-badges
-	url = https://github.com/tshenry/discourse-post-badges
+	url = https://github.com/discourse/discourse-post-badges
 [submodule "themes/material-design-stock-theme"]
 	path = themes/material-design-stock-theme
 	url = https://github.com/discourse/material-design-stock-theme
 [submodule "themes/Discourse-Tiles-image-gallery"]
 	path = themes/Discourse-Tiles-image-gallery
-	url = https://github.com/hnb-ku/Discourse-Tiles-image-gallery
+	url = https://github.com/discourse/Discourse-Tiles-image-gallery
 [submodule "themes/discourse-linkify-words"]
 	path = themes/discourse-linkify-words
 	url = https://github.com/discourse/discourse-linkify-words
@@ -204,7 +204,7 @@
 	url = https://github.com/Chaboi45/Discourse-Keyboard-Text/
 [submodule "themes/Discourse-Slick-image-gallery"]
 	path = themes/Discourse-Slick-image-gallery
-	url = https://github.com/hnb-ku/Discourse-Slick-image-gallery
+	url = https://github.com/discourse/Discourse-Slick-image-gallery
 [submodule "themes/Typewriter-theme"]
 	path = themes/Typewriter-theme
 	url = https://github.com/Chaboi45/Typewriter-theme
@@ -282,7 +282,7 @@
 	url = https://github.com/chrisbeach/discourse-team-tweaks
 [submodule "themes/discourse-christmas-hats"]
 	path = themes/discourse-christmas-hats
-	url = https://github.com/hnb-ku/discourse-christmas-hats
+	url = https://github.com/barryvan/discourse-christmas-hats
 [submodule "themes/discourse-duckduckgo-search"]
 	path = themes/discourse-duckduckgo-search
 	url = https://github.com/notriddle/discourse-duckduckgo-search
@@ -327,10 +327,10 @@
 	url = https://github.com/chrisbeach/discourse-compact-member-list
 [submodule "themes/discourse-thin-header-theme-component"]
 	path = themes/discourse-thin-header-theme-component
-	url = https://github.com/hnb-ku/discourse-thin-header-theme-component
+	url = https://github.com/discourse/discourse-thin-header-theme-component
 [submodule "themes/discourse-dark-admin-editor"]
 	path = themes/discourse-dark-admin-editor
-	url = https://github.com/hnb-ku/discourse-dark-admin-editor
+	url = https://github.com/discourse/discourse-dark-admin-editor
 [submodule "themes/discourse-last-seen-user-card-theme-component"]
 	path = themes/discourse-last-seen-user-card-theme-component
 	url = https://github.com/tshenry/discourse-last-seen-user-card-theme-component
@@ -354,7 +354,7 @@
 	url = https://github.com/scossar/discourse-segment-theme-component
 [submodule "themes/discourse-users-nav"]
 	path = themes/discourse-users-nav
-	url = https://github.com/SamSaffron/discourse-users-nav
+	url = https://github.com/discourse/discourse-users-nav
 [submodule "themes/discourse-category-icons"]
 	path = themes/discourse-category-icons
 	url = https://github.com/pmusaraj/discourse-category-icons
