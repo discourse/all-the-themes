@@ -196,9 +196,6 @@
 [submodule "themes/discourse-theme-hibiscus"]
 	path = themes/discourse-theme-hibiscus
 	url = https://github.com/discourse/discourse-theme-hibiscus.git
-[submodule "themes/discourse-FlexFooter-theme-component"]
-	path = themes/discourse-FlexFooter-theme-component
-	url = https://github.com/hnb-ku/discourse-FlexFooter-theme-component
 [submodule "themes/Discourse-Keyboard-Text"]
 	path = themes/Discourse-Keyboard-Text
 	url = https://github.com/Chaboi45/Discourse-Keyboard-Text/
