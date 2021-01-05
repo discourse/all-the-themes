@@ -295,9 +295,6 @@
 [submodule "themes/plugin-outlets-theme-component"]
 	path = themes/plugin-outlets-theme-component
 	url = https://github.com/discoursehosting/plugin-outlets-theme-component
-[submodule "themes/discourse-compliant-google-login-button"]
-	path = themes/discourse-compliant-google-login-button
-	url = https://github.com/tshenry/discourse-compliant-google-login-button
 [submodule "themes/discourse-welcome-page"]
 	path = themes/discourse-welcome-page
 	url = https://github.com/angusmcleod/discourse-welcome-page
