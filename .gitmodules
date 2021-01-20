@@ -355,3 +355,192 @@
 [submodule "themes/discourse-quick-quote"]
 	path = themes/discourse-quick-quote
 	url = git@github.com:merefield/discourse-quick-quote.git
+[submodule "themes/discourse-peacock-theme"]
+	path = themes/discourse-peacock-theme
+	url = https://github.com/meghnaAJ/discourse-peacock-theme
+[submodule "themes/discourse-topic-excerpts"]
+	path = themes/discourse-topic-excerpts
+	url = https://github.com/discourse/discourse-topic-excerpts
+[submodule "themes/discourse-topic-thumbnails"]
+	path = themes/discourse-topic-thumbnails
+	url = https://github.com/discourse/discourse-topic-thumbnails
+[submodule "themes/discourse-gifs"]
+	path = themes/discourse-gifs
+	url = https://github.com/discourse/discourse-gifs.git
+[submodule "themes/discourse-santa-theme"]
+	path = themes/discourse-santa-theme
+	url = https://github.com/MeghnaAJ/discourse-santa-theme
+[submodule "themes/discourse-featured-tiles"]
+	path = themes/discourse-featured-tiles
+	url = https://github.com/discourse/discourse-featured-tiles
+[submodule "themes/discourse-left-menu-theme-component"]
+	path = themes/discourse-left-menu-theme-component
+	url = https://github.com/featheredtoast/discourse-left-menu-theme-component
+[submodule "themes/discourse-post-views-counter-theme"]
+	path = themes/discourse-post-views-counter-theme
+	url = https://github.com/muhlisbc/discourse-post-views-counter-theme
+[submodule "themes/discourse-mario-theme"]
+	path = themes/discourse-mario-theme
+	url = https://github.com/meghnaAJ/discourse-mario-theme
+[submodule "themes/discourse-video-upload-component"]
+	path = themes/discourse-video-upload-component
+	url = https://github.com/xomads/discourse-video-upload-component
+[submodule "themes/discourse-homepage-feature-component"]
+	path = themes/discourse-homepage-feature-component
+	url = https://github.com/discourse/discourse-homepage-feature-component
+[submodule "themes/discourse-message-bubbles"]
+	path = themes/discourse-message-bubbles
+	url = https://github.com/naidihr/discourse-message-bubbles
+[submodule "themes/discourse-icon-header-links"]
+	path = themes/discourse-icon-header-links
+	url = https://github.com/discourse-com/discourse-icon-header-links
+[submodule "themes/discourse-custom-loading-spinner"]
+	path = themes/discourse-custom-loading-spinner
+	url = https://github.com/meghnaAJ/discourse-custom-loading-spinner
+[submodule "themes/namati-user-card-profile-theme"]
+	path = themes/namati-user-card-profile-theme
+	url = https://github.com/LeoMcA/namati-user-card-profile-theme
+[submodule "themes/discourse-grogu-theme"]
+	path = themes/discourse-grogu-theme
+	url = https://github.com/meghnaAJ/discourse-grogu-theme
+[submodule "themes/discourse-fireworks"]
+	path = themes/discourse-fireworks
+	url = https://github.com/meghnaAJ/discourse-fireworks
+[submodule "themes/discourse-solarized-theme"]
+	path = themes/discourse-solarized-theme
+	url = https://github.com/meghnaAJ/discourse-solarized-theme
+[submodule "themes/discourse-isabelle-theme"]
+	path = themes/discourse-isabelle-theme
+	url = https://github.com/awesomerobot/discourse-isabelle-theme
+[submodule "themes/discourse-christmas-decorations"]
+	path = themes/discourse-christmas-decorations
+	url = https://github.com/meghnaAJ/discourse-christmas-decorations
+[submodule "themes/discourse-old-android-warning-banner-lets-encrypt-changes"]
+	path = themes/discourse-old-android-warning-banner-lets-encrypt-changes
+	url = https://github.com/discourse/discourse-old-android-warning-banner-lets-encrypt-changes.git
+[submodule "themes/discourse-showcased-categories"]
+	path = themes/discourse-showcased-categories
+	url = https://github.com/discourse/discourse-showcased-categories
+[submodule "themes/discourse-pdf-previews"]
+	path = themes/discourse-pdf-previews
+	url = https://github.com/discourse-com/discourse-pdf-previews
+[submodule "themes/discourse-olaf-theme"]
+	path = themes/discourse-olaf-theme
+	url = https://github.com/MeghnaAJ/discourse-olaf-theme
+[submodule "themes/discourse-compact-nav"]
+	path = themes/discourse-compact-nav
+	url = https://github.com/discourse/discourse-compact-nav
+[submodule "themes/discourse-star-wars-theme"]
+	path = themes/discourse-star-wars-theme
+	url = https://github.com/naidihr/discourse-star-wars-theme
+[submodule "themes/zeronoise"]
+	path = themes/zeronoise
+	url = https://github.com/discourse/zeronoise
+[submodule "themes/discourse-mobile-op-avatar-component"]
+	path = themes/discourse-mobile-op-avatar-component
+	url = https://github.com/discourse/discourse-mobile-op-avatar-component
+[submodule "themes/discourse-dice"]
+	path = themes/discourse-dice
+	url = https://github.com/discourse/discourse-dice
+[submodule "themes/lazy-canned-responses"]
+	path = themes/lazy-canned-responses
+	url = https://github.com/worldismine/lazy-canned-responses
+[submodule "themes/discourse-category-headers"]
+	path = themes/discourse-category-headers
+	url = https://github.com/naidihr/discourse-category-headers
+[submodule "themes/discourse-baidu-search"]
+	path = themes/discourse-baidu-search
+	url = https://github.com/discourse/discourse-baidu-search
+[submodule "themes/Dark-Blue-Theme"]
+	path = themes/Dark-Blue-Theme
+	url = https://github.com/ondrej2004/Dark-Blue-Theme.git
+[submodule "themes/discourse-units"]
+	path = themes/discourse-units
+	url = https://github.com/udan11/discourse-units
+[submodule "themes/discourse-google-font-component"]
+	path = themes/discourse-google-font-component
+	url = https://github.com/discourse/discourse-google-font-component
+[submodule "themes/category-highlighter"]
+	path = themes/category-highlighter
+	url = https://github.com/paviliondev/category-highlighter
+[submodule "themes/discourse-reply-template-component"]
+	path = themes/discourse-reply-template-component
+	url = https://github.com/discourse/discourse-reply-template-component
+[submodule "themes/raw-post-button"]
+	path = themes/raw-post-button
+	url = https://github.com/discourse-com/raw-post-button
+[submodule "themes/discourse-image-annotator"]
+	path = themes/discourse-image-annotator
+	url = https://github.com/discourse/discourse-image-annotator
+[submodule "themes/discourse-hide-likes"]
+	path = themes/discourse-hide-likes
+	url = https://github.com/tshenry/discourse-hide-likes
+[submodule "themes/Take-a-break-component"]
+	path = themes/Take-a-break-component
+	url = https://github.com/Chaboi45/Take-a-break-component
+[submodule "themes/discourse-component-youtubetimestamps"]
+	path = themes/discourse-component-youtubetimestamps
+	url = https://github.com/bevry/discourse-component-youtubetimestamps
+[submodule "themes/discourse-tc-reftagger"]
+	path = themes/discourse-tc-reftagger
+	url = https://github.com/discoursehosting/discourse-tc-reftagger
+[submodule "themes/discourse-custom-category-boxes-component"]
+	path = themes/discourse-custom-category-boxes-component
+	url = https://github.com/discourse/discourse-custom-category-boxes-component
+[submodule "themes/Discourse-Theme"]
+	path = themes/Discourse-Theme
+	url = https://github.com/Kodular-Community/Discourse-Theme
+[submodule "themes/discourse-topic-template-placeholders"]
+	path = themes/discourse-topic-template-placeholders
+	url = https://github.com/naidihr/discourse-topic-template-placeholders
+[submodule "themes/discourse-jitsi"]
+	path = themes/discourse-jitsi
+	url = https://github.com/discourse/discourse-jitsi
+[submodule "themes/discourse-allow-arbitrary-homepage"]
+	path = themes/discourse-allow-arbitrary-homepage
+	url = https://github.com/pfaffman/discourse-allow-arbitrary-homepage
+[submodule "themes/discourse-insert-video"]
+	path = themes/discourse-insert-video
+	url = https://github.com/discourse/discourse-insert-video
+[submodule "themes/discourse-user-portfolio"]
+	path = themes/discourse-user-portfolio
+	url = https://github.com/discourse/discourse-user-portfolio
+[submodule "themes/discourse-yotsuba-b"]
+	path = themes/discourse-yotsuba-b
+	url = https://github.com/iji-cx/discourse-yotsuba-b
+[submodule "themes/discourse-yotsuba"]
+	path = themes/discourse-yotsuba
+	url = https://github.com/iji-cx/discourse-yotsuba
+[submodule "themes/discourse-default-composer-category"]
+	path = themes/discourse-default-composer-category
+	url = https://github.com/pmusaraj/discourse-default-composer-category
+[submodule "themes/discourse-d3-graphviz"]
+	path = themes/discourse-d3-graphviz
+	url = https://github.com/magjac/discourse-d3-graphviz
+[submodule "themes/discourse-highlight-text"]
+	path = themes/discourse-highlight-text
+	url = https://github.com/sbernhard/discourse-highlight-text
+[submodule "themes/discourse-add-category-links"]
+	path = themes/discourse-add-category-links
+	url = https://github.com/sbernhard/discourse-add-category-links
+[submodule "themes/hljs-theme-picker"]
+	path = themes/hljs-theme-picker
+	url = https://github.com/discourse/hljs-theme-picker
+[submodule "themes/sunflower-theme"]
+	path = themes/sunflower-theme
+	url = https://github.com/akachinonyerem/sunflower-theme
+[submodule "themes/discourse-whereby"]
+	path = themes/discourse-whereby
+	url = https://github.com/discourse/discourse-whereby
+[submodule "themes/discourse-bug-theme"]
+	path = themes/discourse-bug-theme
+	url = https://github.com/naidihr/discourse-bug-theme
+[submodule "themes/discourse-copy-codeblocks"]
+	path = themes/discourse-copy-codeblocks
+	url = https://github.com/discourse/discourse-copy-codeblocks
+[submodule "themes/arctic-sunrise-theme"]
+	path = themes/arctic-sunrise-theme
+	url = https://github.com/t1-tracey/arctic-sunrise-theme
+[submodule "themes/discourse-hide-users-column"]
+	path = themes/discourse-hide-users-column
+	url = https://github.com/discourse/discourse-hide-users-column
