@@ -421,6 +421,7 @@
 [submodule "themes/discourse-showcased-categories"]
 	path = themes/discourse-showcased-categories
 	url = https://github.com/discourse/discourse-showcased-categories
+	branch = main
 [submodule "themes/discourse-pdf-previews"]
 	path = themes/discourse-pdf-previews
 	url = https://github.com/discourse-com/discourse-pdf-previews
@@ -436,12 +437,14 @@
 [submodule "themes/zeronoise"]
 	path = themes/zeronoise
 	url = https://github.com/discourse/zeronoise
+	branch = main
 [submodule "themes/discourse-mobile-op-avatar-component"]
 	path = themes/discourse-mobile-op-avatar-component
 	url = https://github.com/discourse/discourse-mobile-op-avatar-component
 [submodule "themes/discourse-dice"]
 	path = themes/discourse-dice
 	url = https://github.com/discourse/discourse-dice
+	branch = main
 [submodule "themes/lazy-canned-responses"]
 	path = themes/lazy-canned-responses
 	url = https://github.com/worldismine/lazy-canned-responses
@@ -451,9 +454,11 @@
 [submodule "themes/discourse-baidu-search"]
 	path = themes/discourse-baidu-search
 	url = https://github.com/discourse/discourse-baidu-search
+	branch = main
 [submodule "themes/Dark-Blue-Theme"]
 	path = themes/Dark-Blue-Theme
 	url = https://github.com/ondrej2004/Dark-Blue-Theme.git
+	branch = main
 [submodule "themes/discourse-units"]
 	path = themes/discourse-units
 	url = https://github.com/udan11/discourse-units
@@ -475,6 +480,7 @@
 [submodule "themes/discourse-hide-likes"]
 	path = themes/discourse-hide-likes
 	url = https://github.com/tshenry/discourse-hide-likes
+	branch = main
 [submodule "themes/Take-a-break-component"]
 	path = themes/Take-a-break-component
 	url = https://github.com/Chaboi45/Take-a-break-component
