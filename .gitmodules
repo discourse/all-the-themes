@@ -13,6 +13,7 @@
 [submodule "themes/Fakebook"]
 	path = themes/Fakebook
 	url = https://github.com/discourse/Fakebook
+	branch = main
 [submodule "themes/discourse-search-banner"]
 	path = themes/discourse-search-banner
 	url = https://github.com/awesomerobot/discourse-search-banner
@@ -41,6 +42,7 @@
 [submodule "themes/discourse-avatar-component"]
 	path = themes/discourse-avatar-component
 	url = https://github.com/discourse/discourse-avatar-component
+	branch = main
 [submodule "themes/discourse-cookie-consent-banner"]
 	path = themes/discourse-cookie-consent-banner
 	url = https://github.com/tshenry/discourse-cookie-consent-banner
@@ -54,6 +56,7 @@
 [submodule "themes/Discourse-nav-links-component"]
 	path = themes/Discourse-nav-links-component
 	url = https://github.com/discourse/Discourse-nav-links-component
+	branch = main
 [submodule "themes/discourse-new-topic-button-theme-component"]
 	path = themes/discourse-new-topic-button-theme-component
 	url = https://github.com/discourse/discourse-new-topic-button-theme-component
@@ -103,6 +106,7 @@
 [submodule "themes/Discourse-easy-footer"]
 	path = themes/Discourse-easy-footer
 	url = https://github.com/discourse/Discourse-easy-footer
+	branch = main
 [submodule "themes/md-composer-extras"]
 	path = themes/md-composer-extras
 	url = https://github.com/iunctis/md-composer-extras
@@ -139,9 +143,11 @@
 [submodule "themes/Discourse-Tiles-image-gallery"]
 	path = themes/Discourse-Tiles-image-gallery
 	url = https://github.com/discourse/Discourse-Tiles-image-gallery
+	branch = main
 [submodule "themes/discourse-linkify-words"]
 	path = themes/discourse-linkify-words
 	url = https://github.com/discourse/discourse-linkify-words
+	branch = main
 [submodule "themes/discourse-tag-banners"]
 	path = themes/discourse-tag-banners
 	url = https://github.com/discourse/discourse-tag-banners.git
@@ -206,6 +212,7 @@
 [submodule "themes/Discourse-Slick-image-gallery"]
 	path = themes/Discourse-Slick-image-gallery
 	url = https://github.com/discourse/Discourse-Slick-image-gallery
+	branch = main
 [submodule "themes/Typewriter-theme"]
 	path = themes/Typewriter-theme
 	url = https://github.com/Chaboi45/Typewriter-theme
@@ -266,6 +273,7 @@
 [submodule "themes/discourse-alt-logo"]
 	path = themes/discourse-alt-logo
 	url = https://github.com/discourse/discourse-alt-logo
+	branch = main
 [submodule "themes/discourse-add-category-column"]
 	path = themes/discourse-add-category-column
 	url = https://github.com/tshenry/discourse-add-category-column
