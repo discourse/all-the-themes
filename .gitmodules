@@ -34,6 +34,7 @@
 [submodule "themes/github-status-theme"]
 	path = themes/github-status-theme
 	url = https://github.com/davidtaylorhq/github-status-theme
+	branch = main
 [submodule "themes/discourse-popular-tag-sidebar"]
 	path = themes/discourse-popular-tag-sidebar
 	url = https://github.com/awesomerobot/discourse-popular-tag-sidebar
@@ -46,6 +47,7 @@
 [submodule "themes/DiscoTOC"]
 	path = themes/DiscoTOC
 	url = https://github.com/discourse/DiscoTOC
+	branch = main
 [submodule "themes/discourse-sidebar-nav"]
 	path = themes/discourse-sidebar-nav
 	url = https://github.com/awesomerobot/discourse-sidebar-nav
@@ -70,6 +72,7 @@
 [submodule "themes/discourse-classic"]
 	path = themes/discourse-classic
 	url = https://github.com/discourse/discourse-classic
+	branch = main
 [submodule "themes/discourse-custom-header-links"]
 	path = themes/discourse-custom-header-links
 	url = https://github.com/discourse/discourse-custom-header-links
@@ -157,6 +160,7 @@
 [submodule "themes/discourse-mobile-category-list-adjustments"]
 	path = themes/discourse-mobile-category-list-adjustments
 	url = https://github.com/tshenry/discourse-mobile-category-list-adjustments
+	branch = main
 [submodule "themes/discourse-dark-mode"]
 	path = themes/discourse-dark-mode
 	url = https://github.com/pmusaraj/discourse-dark-mode
