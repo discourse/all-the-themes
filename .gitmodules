@@ -1,12 +1,14 @@
 [submodule "themes/discourse-placeholder-theme-component"]
 	path = themes/discourse-placeholder-theme-component
 	url = https://github.com/discourse/discourse-placeholder-theme-component
+	branch = main
 [submodule "themes/discourse-categories-layout-override"]
 	path = themes/discourse-categories-layout-override
 	url = https://github.com/tshenry/discourse-categories-layout-override
 [submodule "themes/ghost"]
 	path = themes/ghost
 	url = https://github.com/discourse/ghost
+	branch = main
 [submodule "themes/discourse-versatile-banner"]
 	path = themes/discourse-versatile-banner
 	url = https://github.com/tshenry/discourse-versatile-banner
@@ -23,15 +25,19 @@
 [submodule "themes/discourse-brand-header"]
 	path = themes/discourse-brand-header
 	url = https://github.com/discourse/discourse-brand-header
+	branch = main
 [submodule "themes/discourse-kanban-theme"]
 	path = themes/discourse-kanban-theme
 	url = https://github.com/discourse/discourse-kanban-theme
+	branch = main
 [submodule "themes/discourse-category-banners"]
 	path = themes/discourse-category-banners
 	url = https://github.com/discourse/discourse-category-banners
+	branch = main
 [submodule "themes/discourse-vincent-theme"]
 	path = themes/discourse-vincent-theme
 	url = https://github.com/discourse/discourse-vincent-theme
+	branch = main
 [submodule "themes/github-status-theme"]
 	path = themes/github-status-theme
 	url = https://github.com/davidtaylorhq/github-status-theme
@@ -60,6 +66,7 @@
 [submodule "themes/discourse-new-topic-button-theme-component"]
 	path = themes/discourse-new-topic-button-theme-component
 	url = https://github.com/discourse/discourse-new-topic-button-theme-component
+	branch = main
 [submodule "themes/discourse-user-menu-tab"]
 	path = themes/discourse-user-menu-tab
 	url = https://github.com/awesomerobot/discourse-user-menu-tab
@@ -69,6 +76,7 @@
 [submodule "themes/new-like-icon"]
 	path = themes/new-like-icon
 	url = https://github.com/discourse/new-like-icon
+	branch = main
 [submodule "themes/discourse-restrict-uploads"]
 	path = themes/discourse-restrict-uploads
 	url = https://github.com/tshenry/discourse-restrict-uploads
@@ -79,24 +87,29 @@
 [submodule "themes/discourse-custom-header-links"]
 	path = themes/discourse-custom-header-links
 	url = https://github.com/discourse/discourse-custom-header-links
+	branch = main
 [submodule "themes/live-topic-timer"]
 	path = themes/live-topic-timer
 	url = https://github.com/paviliondev/live-topic-timer
 [submodule "themes/discourse-tag-icons"]
 	path = themes/discourse-tag-icons
-	url = https://github.com/pmusaraj/discourse-tag-icons
+	url = https://github.com/discourse/discourse-tag-icons
+	branch = main
 [submodule "themes/discourse-header-links"]
 	path = themes/discourse-header-links
-	url = https://github.com/discourse/discourse-header-links
+	url = https://github.com/discourse/discourse-icon-header-links
+	branch = main
 [submodule "themes/discourse-three-columns-banner"]
 	path = themes/discourse-three-columns-banner
 	url = https://github.com/discourse/discourse-three-columns-banner
+	branch = main
 [submodule "themes/discourse-blog-post-styling"]
 	path = themes/discourse-blog-post-styling
 	url = https://github.com/tshenry/discourse-blog-post-styling
 [submodule "themes/discourse-topic-author"]
 	path = themes/discourse-topic-author
 	url = https://github.com/discourse/discourse-topic-author
+	branch = main
 [submodule "themes/discourse-mute-button"]
 	path = themes/discourse-mute-button
 	url = https://github.com/awesomerobot/discourse-mute-button
@@ -116,12 +129,15 @@
 [submodule "themes/discourse-knowledge-base-theme"]
 	path = themes/discourse-knowledge-base-theme
 	url = https://github.com/discourse/discourse-knowledge-base-theme
+	branch = main
 [submodule "themes/graceful"]
 	path = themes/graceful
 	url = https://github.com/discourse/graceful
+	branch = main
 [submodule "themes/discourse-custom-hamburger-links"]
 	path = themes/discourse-custom-hamburger-links
 	url = https://github.com/hnb-ku/discourse-custom-hamburger-links
+	branch = main
 [submodule "themes/discourse-unanswered-filter"]
 	path = themes/discourse-unanswered-filter
 	url = https://github.com/tshenry/discourse-unanswered-filter
@@ -176,12 +192,14 @@
 [submodule "themes/Scrollable-post-content"]
 	path = themes/Scrollable-post-content
 	url = https://github.com/discourse/Scrollable-post-content
+	branch = main
 [submodule "themes/discourse-trust-level-avatar-flair"]
 	path = themes/discourse-trust-level-avatar-flair
 	url = https://github.com/tshenry/discourse-trust-level-avatar-flair
 [submodule "themes/discourse-header-submenus"]
 	path = themes/discourse-header-submenus
 	url = https://github.com/discourse/discourse-header-submenus
+	branch = main
 [submodule "themes/discourse-simple-theme"]
 	path = themes/discourse-simple-theme
 	url = https://github.com/discourse/discourse-simple-theme
@@ -219,6 +237,7 @@
 [submodule "themes/discourse-custom-topic-button-component"]
 	path = themes/discourse-custom-topic-button-component
 	url = https://github.com/discourse/discourse-custom-topic-button-component
+	branch = main
 [submodule "themes/alien-night-discourse-dark-theme"]
 	path = themes/alien-night-discourse-dark-theme
 	url = https://github.com/B-iggy/alien-night-discourse-dark-theme
@@ -228,6 +247,7 @@
 [submodule "themes/discourse-like-column"]
 	path = themes/discourse-like-column
 	url = https://github.com/discourse/discourse-like-column
+	branch = main
 [submodule "themes/discourse-topic-status-filter"]
 	path = themes/discourse-topic-status-filter
 	url = https://github.com/discourse/discourse-topic-status-filter
@@ -249,6 +269,7 @@
 [submodule "themes/discourse-hamburger-theme-selector"]
 	path = themes/discourse-hamburger-theme-selector
 	url = https://github.com/discourse/discourse-hamburger-theme-selector
+	branch = main
 [submodule "themes/discourse-refresh-latest-footer"]
 	path = themes/discourse-refresh-latest-footer
 	url = https://github.com/xfalcox/discourse-refresh-latest-footer
@@ -267,6 +288,7 @@
 [submodule "themes/discourse-custom-code"]
 	path = themes/discourse-custom-code
 	url = https://github.com/discourse/discourse-custom-code
+	branch = main
 [submodule "themes/discourse-media-overlay-theme"]
 	path = themes/discourse-media-overlay-theme
 	url = https://github.com/davidtaylorhq/discourse-media-overlay-theme
@@ -280,6 +302,7 @@
 [submodule "themes/discourse-intercom-widget"]
 	path = themes/discourse-intercom-widget
 	url = https://github.com/discourse/discourse-intercom-widget
+	branch = main
 [submodule "themes/discourse-material-theme-ample"]
 	path = themes/discourse-material-theme-ample
 	url = https://github.com/ip-tools/discourse-material-theme-ample
@@ -322,6 +345,7 @@
 [submodule "themes/discourse-as-dark-theme"]
 	path = themes/discourse-as-dark-theme
 	url = https://github.com/featheredtoast/discourse-as-dark-theme
+	branch = main
 [submodule "themes/remove-name-suppression-on-posts"]
 	path = themes/remove-name-suppression-on-posts
 	url = https://github.com/discourse/remove-name-suppression-on-posts
@@ -337,18 +361,21 @@
 [submodule "themes/discourse-dark-admin-editor"]
 	path = themes/discourse-dark-admin-editor
 	url = https://github.com/discourse/discourse-dark-admin-editor
+	branch = main
 [submodule "themes/discourse-last-seen-user-card-theme-component"]
 	path = themes/discourse-last-seen-user-card-theme-component
 	url = https://github.com/tshenry/discourse-last-seen-user-card-theme-component
 [submodule "themes/discourse-moonclaw-theme"]
 	path = themes/discourse-moonclaw-theme
 	url = https://github.com/featheredtoast/discourse-moonclaw-theme
+	branch = main
 [submodule "themes/discourse-timefuser"]
 	path = themes/discourse-timefuser
 	url = https://github.com/kurozael/discourse-timefuser
 [submodule "themes/discourse-group-timezones"]
 	path = themes/discourse-group-timezones
 	url = git@github.com:discourse/discourse-group-timezones.git
+	branch = main
 [submodule "themes/fireside-player"]
 	path = themes/fireside-player
 	url = https://github.com/justindirose/fireside-player
@@ -364,6 +391,7 @@
 [submodule "themes/discourse-category-icons"]
 	path = themes/discourse-category-icons
 	url = https://github.com/pmusaraj/discourse-category-icons
+	branch = main
 [submodule "themes/discourse-quick-quote"]
 	path = themes/discourse-quick-quote
 	url = git@github.com:merefield/discourse-quick-quote.git
@@ -379,15 +407,18 @@
 [submodule "themes/discourse-gifs"]
 	path = themes/discourse-gifs
 	url = https://github.com/discourse/discourse-gifs.git
+	branch = main
 [submodule "themes/discourse-santa-theme"]
 	path = themes/discourse-santa-theme
 	url = https://github.com/MeghnaAJ/discourse-santa-theme
 [submodule "themes/discourse-featured-tiles"]
 	path = themes/discourse-featured-tiles
 	url = https://github.com/discourse/discourse-featured-tiles
+	branch = main
 [submodule "themes/discourse-left-menu-theme-component"]
 	path = themes/discourse-left-menu-theme-component
 	url = https://github.com/featheredtoast/discourse-left-menu-theme-component
+	branch = main
 [submodule "themes/discourse-post-views-counter-theme"]
 	path = themes/discourse-post-views-counter-theme
 	url = https://github.com/muhlisbc/discourse-post-views-counter-theme
@@ -400,12 +431,14 @@
 [submodule "themes/discourse-homepage-feature-component"]
 	path = themes/discourse-homepage-feature-component
 	url = https://github.com/discourse/discourse-homepage-feature-component
+	branch = main
 [submodule "themes/discourse-message-bubbles"]
 	path = themes/discourse-message-bubbles
 	url = https://github.com/naidihr/discourse-message-bubbles
 [submodule "themes/discourse-icon-header-links"]
 	path = themes/discourse-icon-header-links
-	url = https://github.com/discourse-com/discourse-icon-header-links
+	url = https://github.com/discourse/discourse-icon-header-links
+	branch = main
 [submodule "themes/discourse-custom-loading-spinner"]
 	path = themes/discourse-custom-loading-spinner
 	url = https://github.com/meghnaAJ/discourse-custom-loading-spinner
@@ -430,19 +463,22 @@
 [submodule "themes/discourse-old-android-warning-banner-lets-encrypt-changes"]
 	path = themes/discourse-old-android-warning-banner-lets-encrypt-changes
 	url = https://github.com/discourse/discourse-old-android-warning-banner-lets-encrypt-changes.git
+	branch = main
 [submodule "themes/discourse-showcased-categories"]
 	path = themes/discourse-showcased-categories
 	url = https://github.com/discourse/discourse-showcased-categories
 	branch = main
 [submodule "themes/discourse-pdf-previews"]
 	path = themes/discourse-pdf-previews
-	url = https://github.com/discourse-com/discourse-pdf-previews
+	url = https://github.com/discourse/discourse-pdf-previews
+	branch = main
 [submodule "themes/discourse-olaf-theme"]
 	path = themes/discourse-olaf-theme
 	url = https://github.com/MeghnaAJ/discourse-olaf-theme
 [submodule "themes/discourse-compact-nav"]
 	path = themes/discourse-compact-nav
 	url = https://github.com/discourse/discourse-compact-nav
+	branch = main
 [submodule "themes/discourse-star-wars-theme"]
 	path = themes/discourse-star-wars-theme
 	url = https://github.com/naidihr/discourse-star-wars-theme
@@ -453,6 +489,7 @@
 [submodule "themes/discourse-mobile-op-avatar-component"]
 	path = themes/discourse-mobile-op-avatar-component
 	url = https://github.com/discourse/discourse-mobile-op-avatar-component
+	branch = main
 [submodule "themes/discourse-dice"]
 	path = themes/discourse-dice
 	url = https://github.com/discourse/discourse-dice
@@ -477,6 +514,7 @@
 [submodule "themes/discourse-google-font-component"]
 	path = themes/discourse-google-font-component
 	url = https://github.com/discourse/discourse-google-font-component
+	branch = main
 [submodule "themes/category-highlighter"]
 	path = themes/category-highlighter
 	url = https://github.com/paviliondev/category-highlighter
@@ -485,10 +523,12 @@
 	url = https://github.com/discourse/discourse-reply-template-component
 [submodule "themes/raw-post-button"]
 	path = themes/raw-post-button
-	url = https://github.com/discourse-com/raw-post-button
+	url = https://github.com/discourse/raw-post-button
+	branch = main
 [submodule "themes/discourse-image-annotator"]
 	path = themes/discourse-image-annotator
 	url = https://github.com/discourse/discourse-image-annotator
+	branch = main
 [submodule "themes/discourse-hide-likes"]
 	path = themes/discourse-hide-likes
 	url = https://github.com/tshenry/discourse-hide-likes
@@ -505,6 +545,7 @@
 [submodule "themes/discourse-custom-category-boxes-component"]
 	path = themes/discourse-custom-category-boxes-component
 	url = https://github.com/discourse/discourse-custom-category-boxes-component
+	branch = main
 [submodule "themes/Discourse-Theme"]
 	path = themes/Discourse-Theme
 	url = https://github.com/Kodular-Community/Discourse-Theme
@@ -514,12 +555,14 @@
 [submodule "themes/discourse-jitsi"]
 	path = themes/discourse-jitsi
 	url = https://github.com/discourse/discourse-jitsi
+	branch = main
 [submodule "themes/discourse-allow-arbitrary-homepage"]
 	path = themes/discourse-allow-arbitrary-homepage
 	url = https://github.com/pfaffman/discourse-allow-arbitrary-homepage
 [submodule "themes/discourse-insert-video"]
 	path = themes/discourse-insert-video
 	url = https://github.com/discourse/discourse-insert-video
+	branch = main
 [submodule "themes/discourse-user-portfolio"]
 	path = themes/discourse-user-portfolio
 	url = https://github.com/discourse/discourse-user-portfolio
@@ -556,9 +599,11 @@
 [submodule "themes/discourse-copy-codeblocks"]
 	path = themes/discourse-copy-codeblocks
 	url = https://github.com/discourse/discourse-copy-codeblocks
+	branch = main
 [submodule "themes/arctic-sunrise-theme"]
 	path = themes/arctic-sunrise-theme
 	url = https://github.com/t1-tracey/arctic-sunrise-theme
 [submodule "themes/discourse-hide-users-column"]
 	path = themes/discourse-hide-users-column
 	url = https://github.com/discourse/discourse-hide-users-column
+	branch = main
