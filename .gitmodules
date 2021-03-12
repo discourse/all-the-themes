@@ -5,6 +5,7 @@
 [submodule "themes/discourse-categories-layout-override"]
 	path = themes/discourse-categories-layout-override
 	url = https://github.com/tshenry/discourse-categories-layout-override
+	branch = main
 [submodule "themes/ghost"]
 	path = themes/ghost
 	url = https://github.com/discourse/ghost
@@ -12,13 +13,15 @@
 [submodule "themes/discourse-versatile-banner"]
 	path = themes/discourse-versatile-banner
 	url = https://github.com/tshenry/discourse-versatile-banner
+	branch = main
 [submodule "themes/Fakebook"]
 	path = themes/Fakebook
 	url = https://github.com/discourse/Fakebook
 	branch = main
 [submodule "themes/discourse-search-banner"]
 	path = themes/discourse-search-banner
-	url = https://github.com/awesomerobot/discourse-search-banner
+	url = https://github.com/discourse/discourse-search-banner
+	branch = main
 [submodule "themes/discourse-material-theme"]
 	path = themes/discourse-material-theme
 	url = https://github.com/Daemonite/discourse-material-theme
@@ -40,7 +43,7 @@
 	branch = main
 [submodule "themes/github-status-theme"]
 	path = themes/github-status-theme
-	url = https://github.com/davidtaylorhq/github-status-theme
+	url = https://github.com/discourse/github-status-theme
 	branch = main
 [submodule "themes/discourse-popular-tag-sidebar"]
 	path = themes/discourse-popular-tag-sidebar
@@ -52,6 +55,7 @@
 [submodule "themes/discourse-cookie-consent-banner"]
 	path = themes/discourse-cookie-consent-banner
 	url = https://github.com/tshenry/discourse-cookie-consent-banner
+	branch = main
 [submodule "themes/DiscoTOC"]
 	path = themes/DiscoTOC
 	url = https://github.com/discourse/DiscoTOC
@@ -80,6 +84,7 @@
 [submodule "themes/discourse-restrict-uploads"]
 	path = themes/discourse-restrict-uploads
 	url = https://github.com/tshenry/discourse-restrict-uploads
+	branch = main
 [submodule "themes/discourse-classic"]
 	path = themes/discourse-classic
 	url = https://github.com/discourse/discourse-classic
@@ -106,6 +111,7 @@
 [submodule "themes/discourse-blog-post-styling"]
 	path = themes/discourse-blog-post-styling
 	url = https://github.com/tshenry/discourse-blog-post-styling
+	branch = main
 [submodule "themes/discourse-topic-author"]
 	path = themes/discourse-topic-author
 	url = https://github.com/discourse/discourse-topic-author
@@ -126,6 +132,7 @@
 [submodule "themes/discourse-big-header-little-header"]
 	path = themes/discourse-big-header-little-header
 	url = https://github.com/tshenry/discourse-big-header-little-header
+	branch = main
 [submodule "themes/discourse-knowledge-base-theme"]
 	path = themes/discourse-knowledge-base-theme
 	url = https://github.com/discourse/discourse-knowledge-base-theme
@@ -136,11 +143,12 @@
 	branch = main
 [submodule "themes/discourse-custom-hamburger-links"]
 	path = themes/discourse-custom-hamburger-links
-	url = https://github.com/hnb-ku/discourse-custom-hamburger-links
+	url = https://github.com/discourse/discourse-custom-hamburger-links
 	branch = main
 [submodule "themes/discourse-unanswered-filter"]
 	path = themes/discourse-unanswered-filter
 	url = https://github.com/tshenry/discourse-unanswered-filter
+	branch = main
 [submodule "themes/discourse-button-styles"]
 	path = themes/discourse-button-styles
 	url = https://github.com/awesomerobot/discourse-button-styles
@@ -153,9 +161,11 @@
 [submodule "themes/discourse-post-badges"]
 	path = themes/discourse-post-badges
 	url = https://github.com/discourse/discourse-post-badges
+	branch = main
 [submodule "themes/material-design-stock-theme"]
 	path = themes/material-design-stock-theme
 	url = https://github.com/discourse/material-design-stock-theme
+	branch = main
 [submodule "themes/Discourse-Tiles-image-gallery"]
 	path = themes/Discourse-Tiles-image-gallery
 	url = https://github.com/discourse/Discourse-Tiles-image-gallery
@@ -167,18 +177,21 @@
 [submodule "themes/discourse-tag-banners"]
 	path = themes/discourse-tag-banners
 	url = https://github.com/discourse/discourse-tag-banners.git
+	branch = main
 [submodule "themes/discourse-tab-bar-theme"]
 	path = themes/discourse-tab-bar-theme
 	url = https://github.com/OsamaSayegh/discourse-tab-bar-theme
 [submodule "themes/discourse-require-edit-reason"]
 	path = themes/discourse-require-edit-reason
 	url = https://github.com/tshenry/discourse-require-edit-reason
+	branch = main
 [submodule "themes/discourse-theme-switcher"]
 	path = themes/discourse-theme-switcher
 	url = https://github.com/B-iggy/discourse-theme-switcher
 [submodule "themes/minima"]
 	path = themes/minima
 	url = https://github.com/discourse/minima
+	branch = main
 [submodule "themes/discourse-mobile-category-list-adjustments"]
 	path = themes/discourse-mobile-category-list-adjustments
 	url = https://github.com/tshenry/discourse-mobile-category-list-adjustments
@@ -196,6 +209,7 @@
 [submodule "themes/discourse-trust-level-avatar-flair"]
 	path = themes/discourse-trust-level-avatar-flair
 	url = https://github.com/tshenry/discourse-trust-level-avatar-flair
+	branch = main
 [submodule "themes/discourse-header-submenus"]
 	path = themes/discourse-header-submenus
 	url = https://github.com/discourse/discourse-header-submenus
@@ -203,6 +217,7 @@
 [submodule "themes/discourse-simple-theme"]
 	path = themes/discourse-simple-theme
 	url = https://github.com/discourse/discourse-simple-theme
+	branch = main
 [submodule "themes/discourse-category-sidebars"]
 	path = themes/discourse-category-sidebars
 	url = https://github.com/awesomerobot/discourse-category-sidebars
@@ -215,15 +230,19 @@
 [submodule "themes/discourse-social-share"]
 	path = themes/discourse-social-share
 	url = https://github.com/discourse/discourse-social-share
+	branch = main
 [submodule "themes/discourse-topic-stopwatch"]
 	path = themes/discourse-topic-stopwatch
 	url = https://github.com/tshenry/discourse-topic-stopwatch
+	branch = main
 [submodule "themes/discourse-omit-emoji"]
 	path = themes/discourse-omit-emoji
 	url = https://github.com/tshenry/discourse-omit-emoji
+	branch = main
 [submodule "themes/discourse-theme-hibiscus"]
 	path = themes/discourse-theme-hibiscus
 	url = https://github.com/discourse/discourse-theme-hibiscus.git
+	branch = main
 [submodule "themes/Discourse-Keyboard-Text"]
 	path = themes/Discourse-Keyboard-Text
 	url = https://github.com/Chaboi45/Discourse-Keyboard-Text/
@@ -251,6 +270,7 @@
 [submodule "themes/discourse-topic-status-filter"]
 	path = themes/discourse-topic-status-filter
 	url = https://github.com/discourse/discourse-topic-status-filter
+	branch = main
 [submodule "themes/discourse-automatic-night-mode-theme"]
 	path = themes/discourse-automatic-night-mode-theme
 	url = https://github.com/muhlisbc/discourse-automatic-night-mode-theme
@@ -260,6 +280,7 @@
 [submodule "themes/discourse-force-mobile-homepage"]
 	path = themes/discourse-force-mobile-homepage
 	url = https://github.com/tshenry/discourse-force-mobile-homepage
+	branch = main
 [submodule "themes/discourse-iframe-lightboxes"]
 	path = themes/discourse-iframe-lightboxes
 	url = https://github.com/hnb-ku/discourse-iframe-lightboxes
@@ -299,6 +320,7 @@
 [submodule "themes/discourse-add-category-column"]
 	path = themes/discourse-add-category-column
 	url = https://github.com/tshenry/discourse-add-category-column
+	branch = main
 [submodule "themes/discourse-intercom-widget"]
 	path = themes/discourse-intercom-widget
 	url = https://github.com/discourse/discourse-intercom-widget
@@ -321,6 +343,7 @@
 [submodule "themes/discourse-alternative-voting-category-style"]
 	path = themes/discourse-alternative-voting-category-style
 	url = https://github.com/tshenry/discourse-alternative-voting-category-style
+	branch = main
 [submodule "themes/discourse-abbrify-words"]
 	path = themes/discourse-abbrify-words
 	url = https://github.com/metabrainz/discourse-abbrify-words
@@ -349,6 +372,7 @@
 [submodule "themes/remove-name-suppression-on-posts"]
 	path = themes/remove-name-suppression-on-posts
 	url = https://github.com/discourse/remove-name-suppression-on-posts
+	branch = main
 [submodule "themes/discourse-pulsing-alerts"]
 	path = themes/discourse-pulsing-alerts
 	url = https://github.com/chrisbeach/discourse-pulsing-alerts
@@ -358,6 +382,7 @@
 [submodule "themes/discourse-thin-header-theme-component"]
 	path = themes/discourse-thin-header-theme-component
 	url = https://github.com/discourse/discourse-thin-header-theme-component
+	branch = main
 [submodule "themes/discourse-dark-admin-editor"]
 	path = themes/discourse-dark-admin-editor
 	url = https://github.com/discourse/discourse-dark-admin-editor
@@ -365,6 +390,7 @@
 [submodule "themes/discourse-last-seen-user-card-theme-component"]
 	path = themes/discourse-last-seen-user-card-theme-component
 	url = https://github.com/tshenry/discourse-last-seen-user-card-theme-component
+	branch = main
 [submodule "themes/discourse-moonclaw-theme"]
 	path = themes/discourse-moonclaw-theme
 	url = https://github.com/featheredtoast/discourse-moonclaw-theme
@@ -388,9 +414,10 @@
 [submodule "themes/discourse-users-nav"]
 	path = themes/discourse-users-nav
 	url = https://github.com/discourse/discourse-users-nav
+	branch = main
 [submodule "themes/discourse-category-icons"]
 	path = themes/discourse-category-icons
-	url = https://github.com/pmusaraj/discourse-category-icons
+	url = https://github.com/discourse/discourse-category-icons
 	branch = main
 [submodule "themes/discourse-quick-quote"]
 	path = themes/discourse-quick-quote
@@ -401,9 +428,11 @@
 [submodule "themes/discourse-topic-excerpts"]
 	path = themes/discourse-topic-excerpts
 	url = https://github.com/discourse/discourse-topic-excerpts
+	branch = main
 [submodule "themes/discourse-topic-thumbnails"]
 	path = themes/discourse-topic-thumbnails
 	url = https://github.com/discourse/discourse-topic-thumbnails
+	branch = main
 [submodule "themes/discourse-gifs"]
 	path = themes/discourse-gifs
 	url = https://github.com/discourse/discourse-gifs.git
@@ -521,6 +550,7 @@
 [submodule "themes/discourse-reply-template-component"]
 	path = themes/discourse-reply-template-component
 	url = https://github.com/discourse/discourse-reply-template-component
+	branch = main
 [submodule "themes/raw-post-button"]
 	path = themes/raw-post-button
 	url = https://github.com/discourse/raw-post-button
@@ -566,6 +596,7 @@
 [submodule "themes/discourse-user-portfolio"]
 	path = themes/discourse-user-portfolio
 	url = https://github.com/discourse/discourse-user-portfolio
+	branch = main
 [submodule "themes/discourse-yotsuba-b"]
 	path = themes/discourse-yotsuba-b
 	url = https://github.com/iji-cx/discourse-yotsuba-b
@@ -587,12 +618,14 @@
 [submodule "themes/hljs-theme-picker"]
 	path = themes/hljs-theme-picker
 	url = https://github.com/discourse/hljs-theme-picker
+	branch = main
 [submodule "themes/sunflower-theme"]
 	path = themes/sunflower-theme
 	url = https://github.com/akachinonyerem/sunflower-theme
 [submodule "themes/discourse-whereby"]
 	path = themes/discourse-whereby
 	url = https://github.com/discourse/discourse-whereby
+	branch = main
 [submodule "themes/discourse-bug-theme"]
 	path = themes/discourse-bug-theme
 	url = https://github.com/naidihr/discourse-bug-theme
