@@ -640,3 +640,7 @@
 	path = themes/discourse-hide-users-column
 	url = https://github.com/discourse/discourse-hide-users-column
 	branch = main
+[submodule "themes/discourse-disable-reply-jump"]
+	path = themes/discourse-disable-reply-jump
+	url = git@github.com:discourse/discourse-disable-reply-jump.git
+	branch = main
