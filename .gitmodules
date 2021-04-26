@@ -644,3 +644,7 @@
 	path = themes/discourse-disable-reply-jump
 	url = git@github.com:discourse/discourse-disable-reply-jump.git
 	branch = main
+[submodule "themes/neomorphism-theme"]
+	path = themes/neomorphism-theme
+	url = https://github.com/twimbit/neomorphism-discourse
+	branch = main
