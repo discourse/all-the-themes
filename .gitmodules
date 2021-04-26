@@ -1,7 +1,3 @@
-[submodule "themes/neomorphism-theme"]
-	path = themes/neomorphism-theme
-	url = https://github.com/twimbit/neomorphism-discourse
-
 [submodule "themes/discourse-placeholder-theme-component"]
 	path = themes/discourse-placeholder-theme-component
 	url = https://github.com/discourse/discourse-placeholder-theme-component
@@ -647,4 +643,8 @@
 [submodule "themes/discourse-disable-reply-jump"]
 	path = themes/discourse-disable-reply-jump
 	url = git@github.com:discourse/discourse-disable-reply-jump.git
+	branch = main
+[submodule "themes/neomorphism-theme"]
+	path = themes/neomorphism-theme
+	url = https://github.com/twimbit/neomorphism-discourse
 	branch = main
