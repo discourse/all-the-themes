@@ -648,3 +648,6 @@
 	path = themes/neomorphism-theme
 	url = https://github.com/twimbit/neomorphism-discourse
 	branch = main
+[submodule "themes/discourse-icon"]
+	path = themes/discourse-icon
+	url = https://github.com/discourse/discourse-icon.git
