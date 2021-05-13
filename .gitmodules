@@ -651,3 +651,12 @@
 [submodule "themes/discourse-icon"]
 	path = themes/discourse-icon
 	url = https://github.com/discourse/discourse-icon.git
+[submodule "themes/discourse-featured-tiles-link"]
+	path = themes/discourse-featured-tiles-link
+	url = https://github.com/discourse/discourse-featured-tiles-link.git
+[submodule "themes/discourse-excluded-logins"]
+	path = themes/discourse-excluded-logins
+	url = https://github.com/discourse/discourse-excluded-logins.git
+[submodule "themes/discourse-quick-whisper"]
+	path = themes/discourse-quick-whisper
+	url = https://github.com/discourse/discourse-quick-whisper.git
