@@ -660,3 +660,7 @@
 [submodule "themes/discourse-quick-whisper"]
 	path = themes/discourse-quick-whisper
 	url = https://github.com/discourse/discourse-quick-whisper.git
+[submodule "themes/discourse-color-scheme-toggle"]
+	path = themes/discourse-color-scheme-toggle
+	url = https://github.com/discourse/discourse-color-scheme-toggle
+	branch = main
