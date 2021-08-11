@@ -533,10 +533,6 @@
 	path = themes/discourse-baidu-search
 	url = https://github.com/discourse/discourse-baidu-search
 	branch = main
-[submodule "themes/Dark-Blue-Theme"]
-	path = themes/Dark-Blue-Theme
-	url = https://github.com/ondrej2004/Dark-Blue-Theme.git
-	branch = main
 [submodule "themes/discourse-units"]
 	path = themes/discourse-units
 	url = https://github.com/udan11/discourse-units
