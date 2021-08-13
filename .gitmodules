@@ -133,10 +133,6 @@
 	path = themes/discourse-big-header-little-header
 	url = https://github.com/tshenry/discourse-big-header-little-header
 	branch = main
-[submodule "themes/discourse-knowledge-base-theme"]
-	path = themes/discourse-knowledge-base-theme
-	url = https://github.com/discourse/discourse-knowledge-base-theme
-	branch = main
 [submodule "themes/graceful"]
 	path = themes/graceful
 	url = https://github.com/discourse/graceful
