@@ -665,3 +665,6 @@
 [submodule "themes/discourse-totp-markdown"]
 	path = themes/discourse-totp-markdown
 	url = https://github.com/discourse/discourse-totp-markdown
+[submodule "themes/discourse-post-height-detective"]
+	path = themes/discourse-post-height-detective
+	url = https://github.com/davidtaylorhq/discourse-post-height-detective
