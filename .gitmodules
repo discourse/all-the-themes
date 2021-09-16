@@ -656,3 +656,6 @@
 	path = themes/discourse-color-scheme-toggle
 	url = https://github.com/discourse/discourse-color-scheme-toggle
 	branch = main
+[submodule "themes/discourse-pm-bubbles"]
+	path = themes/discourse-pm-bubbles
+	url = https://github.com/discourse/discourse-pm-bubbles
