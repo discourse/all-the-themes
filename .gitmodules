@@ -662,3 +662,6 @@
 [submodule "themes/discourse-random-invitee-list"]
 	path = themes/discourse-random-invitee-list
 	url = https://github.com/jjaffeux/discourse-random-invitee-list
+[submodule "themes/discourse-totp-markdown"]
+	path = themes/discourse-totp-markdown
+	url = https://github.com/discourse/discourse-totp-markdown
