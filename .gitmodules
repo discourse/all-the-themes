@@ -671,3 +671,6 @@
 [submodule "themes/discourse-blank-theme"]
 	path = themes/discourse-blank-theme
 	url = https://github.com/discourse/discourse-blank-theme
+[submodule "themes/discourse-wcag-contrast"]
+	path = themes/discourse-wcag-contrast
+	url = https://github.com/discourse/discourse-wcag-contrast
