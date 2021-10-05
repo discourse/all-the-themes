@@ -674,3 +674,6 @@
 [submodule "themes/discourse-wcag-contrast"]
 	path = themes/discourse-wcag-contrast
 	url = https://github.com/discourse/discourse-wcag-contrast
+[submodule "themes/discourse-header-search"]
+	path = themes/discourse-header-search
+	url = https://github.com/discourse/discourse-header-search
