@@ -348,7 +348,7 @@
 	url = https://github.com/davidtaylorhq/discourse-admin-warnings
 [submodule "themes/plugin-outlets-theme-component"]
 	path = themes/plugin-outlets-theme-component
-	url = https://github.com/discoursehosting/plugin-outlets-theme-component
+	url = https://github.com/communiteq/plugin-outlets-theme-component
 [submodule "themes/discourse-welcome-page"]
 	path = themes/discourse-welcome-page
 	url = https://github.com/angusmcleod/discourse-welcome-page
@@ -357,7 +357,7 @@
 	url = https://github.com/daveaevion/discourse-spinner-theme-component
 [submodule "themes/discourse-emoji-mention"]
 	path = themes/discourse-emoji-mention
-	url = https://github.com/awesomerobot/discourse-emoji-mention
+	url = https://github.com/discourse/discourse-emoji-mention
 [submodule "themes/personal-discourse-theme"]
 	path = themes/personal-discourse-theme
 	url = https://github.com/joebuhlig/personal-discourse-theme
@@ -563,7 +563,7 @@
 	url = https://github.com/bevry/discourse-component-youtubetimestamps
 [submodule "themes/discourse-tc-reftagger"]
 	path = themes/discourse-tc-reftagger
-	url = https://github.com/discoursehosting/discourse-tc-reftagger
+	url = https://github.com/communiteq/discourse-tc-reftagger
 [submodule "themes/discourse-custom-category-boxes-component"]
 	path = themes/discourse-custom-category-boxes-component
 	url = https://github.com/discourse/discourse-custom-category-boxes-component
