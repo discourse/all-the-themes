@@ -690,3 +690,7 @@
 	path = themes/discourse-header-search
 	url = https://github.com/discourse/discourse-header-search
 	branch = main
+[submodule "themes/discourse-docs-card-filter"]
+	path = themes/discourse-docs-card-filter
+	url = https://github.com/discourse/discourse-docs-card-filter
+	branch = main
