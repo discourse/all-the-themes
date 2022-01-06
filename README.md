@@ -21,7 +21,7 @@ If you have a theme you would like included in the meta repo create a PR with th
 To add it
 
 ```
-git submodule add https://github.com/your-user/your-theme.git themes/your-theme
+git submodule add -b main https://github.com/your-user/your-theme themes/your-theme
 ```
 
 Ensure the submodule is cloned into the `themes` directory. Also, please make sure you publish your theme at:
