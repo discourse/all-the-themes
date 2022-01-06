@@ -172,7 +172,7 @@
 	branch = main
 [submodule "themes/discourse-tag-banners"]
 	path = themes/discourse-tag-banners
-	url = https://github.com/discourse/discourse-tag-banners.git
+	url = https://github.com/discourse/discourse-tag-banners
 	branch = main
 [submodule "themes/discourse-tab-bar-theme"]
 	path = themes/discourse-tab-bar-theme
@@ -216,10 +216,12 @@
 	branch = main
 [submodule "themes/discourse-category-sidebars"]
 	path = themes/discourse-category-sidebars
-	url = https://github.com/awesomerobot/discourse-category-sidebars
+	url = https://github.com/discourse/discourse-category-sidebars
+	branch = main
 [submodule "themes/unformatted_code_detector"]
 	path = themes/unformatted_code_detector
-	url = https://github.com/lionel-rowe/unformatted_code_detector/
+	url = https://github.com/discourse/unformatted_code_detector
+	branch = main
 [submodule "themes/discourse-header-theme-toggle"]
 	path = themes/discourse-header-theme-toggle
 	url = https://github.com/awesomerobot/discourse-header-theme-toggle
@@ -237,11 +239,11 @@
 	branch = main
 [submodule "themes/discourse-theme-hibiscus"]
 	path = themes/discourse-theme-hibiscus
-	url = https://github.com/discourse/discourse-theme-hibiscus.git
+	url = https://github.com/discourse/discourse-theme-hibiscus
 	branch = main
 [submodule "themes/Discourse-Keyboard-Text"]
 	path = themes/Discourse-Keyboard-Text
-	url = https://github.com/Chaboi45/Discourse-Keyboard-Text/
+	url = https://github.com/Chaboi45/Discourse-Keyboard-Text
 [submodule "themes/Discourse-Slick-image-gallery"]
 	path = themes/Discourse-Slick-image-gallery
 	url = https://github.com/discourse/Discourse-Slick-image-gallery
@@ -295,7 +297,7 @@
 	url = https://github.com/hnb-ku/StackBlur-backgrounds-discourse-theme-component
 [submodule "themes/discourse-classic-theme"]
 	path = themes/discourse-classic-theme
-	url = https://github.com/Toxuru/discourse-classic-theme
+	url = https://github.com/evgip/discourse-classic-theme
 [submodule "themes/discourse-tiger-stripes"]
 	path = themes/discourse-tiger-stripes
 	url = https://github.com/fefrei/discourse-tiger-stripes
@@ -358,6 +360,7 @@
 [submodule "themes/discourse-emoji-mention"]
 	path = themes/discourse-emoji-mention
 	url = https://github.com/discourse/discourse-emoji-mention
+	branch = main
 [submodule "themes/personal-discourse-theme"]
 	path = themes/personal-discourse-theme
 	url = https://github.com/joebuhlig/personal-discourse-theme
@@ -396,7 +399,7 @@
 	url = https://github.com/kurozael/discourse-timefuser
 [submodule "themes/discourse-group-timezones"]
 	path = themes/discourse-group-timezones
-	url = git@github.com:discourse/discourse-group-timezones.git
+	url = https://github.com/discourse/discourse-group-timezones
 	branch = main
 [submodule "themes/fireside-player"]
 	path = themes/fireside-player
@@ -404,6 +407,7 @@
 [submodule "themes/discourse-snow-theme"]
 	path = themes/discourse-snow-theme
 	url = https://github.com/davidtaylorhq/discourse-snow-theme
+	branch = main
 [submodule "themes/discourse-segment-theme-component"]
 	path = themes/discourse-segment-theme-component
 	url = https://github.com/scossar/discourse-segment-theme-component
@@ -417,7 +421,7 @@
 	branch = main
 [submodule "themes/discourse-quick-quote"]
 	path = themes/discourse-quick-quote
-	url = git@github.com:merefield/discourse-quick-quote.git
+	url = https://github.com/merefield/discourse-quick-quote
 [submodule "themes/discourse-peacock-theme"]
 	path = themes/discourse-peacock-theme
 	url = https://github.com/meghnaAJ/discourse-peacock-theme
@@ -431,7 +435,7 @@
 	branch = main
 [submodule "themes/discourse-gifs"]
 	path = themes/discourse-gifs
-	url = https://github.com/discourse/discourse-gifs.git
+	url = https://github.com/discourse/discourse-gifs
 	branch = main
 [submodule "themes/discourse-santa-theme"]
 	path = themes/discourse-santa-theme
@@ -487,7 +491,7 @@
 	url = https://github.com/meghnaAJ/discourse-christmas-decorations
 [submodule "themes/discourse-old-android-warning-banner-lets-encrypt-changes"]
 	path = themes/discourse-old-android-warning-banner-lets-encrypt-changes
-	url = https://github.com/discourse/discourse-old-android-warning-banner-lets-encrypt-changes.git
+	url = https://github.com/discourse/discourse-old-android-warning-banner-lets-encrypt-changes
 	branch = main
 [submodule "themes/discourse-showcased-categories"]
 	path = themes/discourse-showcased-categories
@@ -634,7 +638,7 @@
 	branch = main
 [submodule "themes/discourse-disable-reply-jump"]
 	path = themes/discourse-disable-reply-jump
-	url = git@github.com:discourse/discourse-disable-reply-jump.git
+	url = https://github.com/discourse/discourse-disable-reply-jump
 	branch = main
 [submodule "themes/neomorphism-theme"]
 	path = themes/neomorphism-theme
@@ -642,16 +646,20 @@
 	branch = main
 [submodule "themes/discourse-icon"]
 	path = themes/discourse-icon
-	url = https://github.com/discourse/discourse-icon.git
+	url = https://github.com/discourse/discourse-icon
+	branch = main
 [submodule "themes/discourse-featured-tiles-link"]
 	path = themes/discourse-featured-tiles-link
-	url = https://github.com/discourse/discourse-featured-tiles-link.git
+	url = https://github.com/discourse/discourse-featured-tiles-link
+	branch = main
 [submodule "themes/discourse-excluded-logins"]
 	path = themes/discourse-excluded-logins
-	url = https://github.com/discourse/discourse-excluded-logins.git
+	url = https://github.com/discourse/discourse-excluded-logins
+	branch = main
 [submodule "themes/discourse-quick-whisper"]
 	path = themes/discourse-quick-whisper
-	url = https://github.com/discourse/discourse-quick-whisper.git
+	url = https://github.com/discourse/discourse-quick-whisper
+	branch = main
 [submodule "themes/discourse-color-scheme-toggle"]
 	path = themes/discourse-color-scheme-toggle
 	url = https://github.com/discourse/discourse-color-scheme-toggle
@@ -659,21 +667,26 @@
 [submodule "themes/discourse-pm-bubbles"]
 	path = themes/discourse-pm-bubbles
 	url = https://github.com/discourse/discourse-pm-bubbles
+	branch = main
 [submodule "themes/discourse-random-invitee-list"]
 	path = themes/discourse-random-invitee-list
 	url = https://github.com/jjaffeux/discourse-random-invitee-list
 [submodule "themes/discourse-totp-markdown"]
 	path = themes/discourse-totp-markdown
 	url = https://github.com/discourse/discourse-totp-markdown
+	branch = main
 [submodule "themes/discourse-post-height-detective"]
 	path = themes/discourse-post-height-detective
 	url = https://github.com/davidtaylorhq/discourse-post-height-detective
 [submodule "themes/discourse-blank-theme"]
 	path = themes/discourse-blank-theme
 	url = https://github.com/discourse/discourse-blank-theme
+	branch = main
 [submodule "themes/discourse-wcag-contrast"]
 	path = themes/discourse-wcag-contrast
 	url = https://github.com/discourse/discourse-wcag-contrast
+	branch = main
 [submodule "themes/discourse-header-search"]
 	path = themes/discourse-header-search
 	url = https://github.com/discourse/discourse-header-search
+	branch = main
