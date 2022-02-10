@@ -694,3 +694,7 @@
 	path = themes/discourse-docs-card-filter
 	url = https://github.com/discourse/discourse-docs-card-filter
 	branch = main
+[submodule "themes/discourse-loading-slider"]
+	path = themes/discourse-loading-slider
+	url = https://github.com/discourse/discourse-loading-slider
+	branch = main
