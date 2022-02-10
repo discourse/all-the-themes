@@ -698,3 +698,7 @@
 	path = themes/discourse-loading-slider
 	url = https://github.com/discourse/discourse-loading-slider
 	branch = main
+[submodule "themes/discourse-mobile-dismiss"]
+	path = themes/discourse-mobile-dismiss
+	url = https://github.com/discourse/discourse-mobile-dismiss
+	branch = main
