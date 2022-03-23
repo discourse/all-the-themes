@@ -710,3 +710,7 @@
 	path = themes/discourse-clickable-topic
 	url = https://github.com/discourse/discourse-clickable-topic
 	branch = main
+[submodule "themes/discourse-user-card-directory"]
+	path = themes/discourse-user-card-directory
+	url = https://github.com/discourse/discourse-user-card-directory
+	branch = main
