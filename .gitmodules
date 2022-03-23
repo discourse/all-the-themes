@@ -706,3 +706,7 @@
 	path = themes/discourse-air
 	url = https://github.com/discourse/discourse-air
 	branch = main
+[submodule "themes/discourse-clickable-topic"]
+	path = themes/discourse-clickable-topic
+	url = https://github.com/discourse/discourse-clickable-topic
+	branch = main
