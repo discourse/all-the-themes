@@ -702,3 +702,7 @@
 	path = themes/discourse-mobile-dismiss
 	url = https://github.com/discourse/discourse-mobile-dismiss
 	branch = main
+[submodule "themes/discourse-air"]
+	path = themes/discourse-air
+	url = https://github.com/discourse/discourse-air
+	branch = main
