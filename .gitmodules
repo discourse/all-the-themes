@@ -718,3 +718,7 @@
 	path = themes/tc-theme
 	url = https://github.com/discourse/tc-theme
 	branch = main
+[submodule "themes/discourse-gated-topics-in-category"]
+	path = themes/discourse-gated-topics-in-category
+	url = https://github.com/discourse/discourse-gated-topics-in-category
+	branch = main
