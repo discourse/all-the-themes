@@ -714,3 +714,7 @@
 	path = themes/discourse-user-card-directory
 	url = https://github.com/discourse/discourse-user-card-directory
 	branch = main
+[submodule "themes/tc-theme"]
+	path = themes/tc-theme
+	url = https://github.com/discourse/tc-theme
+	branch = main
