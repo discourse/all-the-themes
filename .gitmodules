@@ -722,3 +722,7 @@
 	path = themes/discourse-gated-topics-in-category
 	url = https://github.com/discourse/discourse-gated-topics-in-category
 	branch = main
+[submodule "themes/discourse-media-events"]
+	path = themes/discourse-media-events
+	url = https://github.com/discourse/discourse-media-events
+	branch = main
