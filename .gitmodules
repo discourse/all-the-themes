@@ -726,3 +726,7 @@
 	path = themes/discourse-media-events
 	url = https://github.com/discourse/discourse-media-events
 	branch = main
+[submodule "themes/featured-link-quick-access"]
+	path = themes/featured-link-quick-access
+	url = https://github.com/discourse/featured-link-quick-access
+	branch = main
