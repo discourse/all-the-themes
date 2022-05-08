@@ -730,3 +730,7 @@
 	path = themes/featured-link-quick-access
 	url = https://github.com/discourse/featured-link-quick-access
 	branch = main
+[submodule "themes/discourse-wyze-theme"]
+	path = themes/discourse-wyze-theme
+	url = https://github.com/wyzelabs/discourse-wyze-theme
+	branch = master
