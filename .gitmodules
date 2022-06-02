@@ -818,3 +818,7 @@
 	path = themes/discourse-wyze-theme
 	url = https://github.com/wyzelabs/discourse-wyze-theme
 	branch = master
+[submodule "themes/discourse-big-carousel-component"]
+	path = themes/discourse-big-carousel-component
+	url = https://github.com/discourse/discourse-big-carousel-component
+	branch = main
