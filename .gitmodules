@@ -822,3 +822,7 @@
 	path = themes/discourse-big-carousel-component
 	url = https://github.com/discourse/discourse-big-carousel-component
 	branch = main
+[submodule "themes/discourse-localized-header-nav"]
+	path = themes/discourse-localized-header-nav
+	url = https://github.com/discourse/discourse-localized-header-nav
+	branch = main
