@@ -826,3 +826,7 @@
 	path = themes/discourse-localized-header-nav
 	url = https://github.com/discourse/discourse-localized-header-nav
 	branch = main
+[submodule "themes/discourse-locale-switcher"]
+	path = themes/discourse-locale-switcher
+	url = https://github.com/discourse/discourse-locale-switcher
+	branch = main
