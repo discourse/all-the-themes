@@ -830,3 +830,7 @@
 	path = themes/discourse-locale-switcher
 	url = https://github.com/discourse/discourse-locale-switcher
 	branch = main
+[submodule "themes/discourse-sidebar-category-nav"]
+	path = themes/discourse-sidebar-category-nav
+	url = https://github.com/discourse/discourse-sidebar-category-nav
+	branch = main
