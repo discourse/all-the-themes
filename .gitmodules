@@ -834,3 +834,7 @@
 	path = themes/discourse-sidebar-category-nav
 	url = https://github.com/discourse/discourse-sidebar-category-nav
 	branch = main
+[submodule "themes/discourse-group-alert"]
+	path = themes/discourse-group-alert
+	url = https://github.com/discourse/discourse-group-alert
+	branch = main
