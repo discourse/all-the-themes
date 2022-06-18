@@ -842,3 +842,7 @@
 	path = themes/discourse-user-card-on-hover
 	url = https://github.com/discourse/discourse-user-card-on-hover
 	branch = main
+[submodule "themes/discourse-topic-group-button-component"]
+	path = themes/discourse-topic-group-button-component
+	url = https://github.com/discourse/discourse-topic-group-button-component
+	branch = main
