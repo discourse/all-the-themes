@@ -838,3 +838,7 @@
 	path = themes/discourse-group-alert
 	url = https://github.com/discourse/discourse-group-alert
 	branch = main
+[submodule "themes/discourse-user-card-on-hover"]
+	path = themes/discourse-user-card-on-hover
+	url = https://github.com/discourse/discourse-user-card-on-hover
+	branch = main
