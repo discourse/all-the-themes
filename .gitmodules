@@ -846,3 +846,7 @@
 	path = themes/discourse-topic-group-button-component
 	url = https://github.com/discourse/discourse-topic-group-button-component
 	branch = main
+[submodule "themes/discourse-right-sidebar-blocks"]
+	path = themes/discourse-right-sidebar-blocks
+	url = https://github.com/discourse/discourse-right-sidebar-blocks
+	branch = main
