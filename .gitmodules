@@ -850,3 +850,7 @@
 	path = themes/discourse-right-sidebar-blocks
 	url = https://github.com/discourse/discourse-right-sidebar-blocks
 	branch = main
+[submodule "themes/discourse-maintenance-message"]
+	path = themes/discourse-maintenance-message
+	url = https://github.com/discourse/discourse-maintenance-message
+	branch = main
