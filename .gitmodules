@@ -854,3 +854,7 @@
 	path = themes/discourse-maintenance-message
 	url = https://github.com/discourse/discourse-maintenance-message
 	branch = main
+[submodule "themes/discourse-top-contributors-sidebar"]
+	path = themes/discourse-top-contributors-sidebar
+	url = https://github.com/discourse/discourse-top-contributors-sidebar
+	branch = main
