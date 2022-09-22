@@ -858,3 +858,7 @@
 	path = themes/discourse-top-contributors-sidebar
 	url = https://github.com/discourse/discourse-top-contributors-sidebar
 	branch = main
+[submodule "themes/discourse-table-builder"]
+	path = themes/discourse-table-builder
+	url = https://github.com/discourse/discourse-table-builder
+	branch = main
