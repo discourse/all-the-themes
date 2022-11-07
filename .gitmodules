@@ -676,8 +676,8 @@
 	branch = master
 [submodule "themes/discourse-default-composer-category"]
 	path = themes/discourse-default-composer-category
-	url = https://github.com/pmusaraj/discourse-default-composer-category
-	branch = master
+	url = https://github.com/discourse/discourse-default-composer-category
+	branch = main
 [submodule "themes/discourse-d3-graphviz"]
 	path = themes/discourse-d3-graphviz
 	url = https://github.com/magjac/discourse-d3-graphviz
