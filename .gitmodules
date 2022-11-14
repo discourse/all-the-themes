@@ -866,3 +866,7 @@
 	path = themes/discourse-doc-preview
 	url = https://github.com/ReCODE-Health/discourse-doc-preview
 	branch = main
+[submodule "themes/discourse-mobile-sticky-avatars"]
+	path = themes/discourse-mobile-sticky-avatars
+	url = https://github.com/VaperinaDEV/discourse-mobile-sticky-avatars
+	branch = main
