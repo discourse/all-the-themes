@@ -706,10 +706,6 @@
 	path = themes/discourse-bug-theme
 	url = https://github.com/naidihr/discourse-bug-theme
 	branch = master
-[submodule "themes/discourse-copy-codeblocks"]
-	path = themes/discourse-copy-codeblocks
-	url = https://github.com/discourse/discourse-copy-codeblocks
-	branch = main
 [submodule "themes/arctic-sunrise-theme"]
 	path = themes/arctic-sunrise-theme
 	url = https://github.com/t1-tracey/arctic-sunrise-theme
