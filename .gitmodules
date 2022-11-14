@@ -862,3 +862,7 @@
 	path = themes/discourse-table-builder
 	url = https://github.com/discourse/discourse-table-builder
 	branch = main
+[submodule "themes/discourse-doc-preview"]
+	path = themes/discourse-doc-preview
+	url = https://github.com/ReCODE-Health/discourse-doc-preview
+	branch = main
