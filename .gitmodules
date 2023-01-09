@@ -866,3 +866,7 @@
 	path = themes/discourse-mobile-sticky-avatars
 	url = https://github.com/VaperinaDEV/discourse-mobile-sticky-avatars
 	branch = main
+[submodule "themes/discourse-upload-consent"]
+	path = themes/discourse-upload-consent
+	url = https://github.com/discourse/discourse-upload-consent
+	branch = main
