@@ -11,32 +11,25 @@ Occasionally we need to deprecate extensibility interfaces or migrate to newer a
 ```
 git clone https://github.com/discourse/all-the-themes.git
 cd all-the-themes
-git submodule update --init --recursive
+./reset-all-repos
 ```
 
 ### Contributing your own theme
 
-If you have a theme you would like included in the meta repo create a PR with the new submodule.
+If you have a theme you would like included in the meta repo create a PR to add the repository to themes.txt
 
-To add it
+Also, please make sure you publish your theme at https://meta.discourse.org/c/theme
 
-```
-git submodule add -b main https://github.com/your-user/your-theme themes/your-theme
-```
+### Updating
 
-Ensure the submodule is cloned into the `themes` directory. Also, please make sure you publish your theme at:
+To update your local copies of themes, run `./reset-all-repos`. The default branch of each repo will be checked out, reset to the latest commit on the origin, and all
+local changes will be discarded. Any stale directories under `./themes` will be deleted.
 
-https://meta.discourse.org/c/theme
+If you want a totally clean slate, `rm -rf ./themes`, and then run `./reset-all-repos` again.
 
-### Updating a theme
+### Removing a theme
 
-Once in a while we will run
-
-```
-git submodule update --recursive --remote
-```
-
-If you would like to speed up our update process, submit a PR with updated submodules
+Delete the line from `themes.txt` and commit your changes. To remove from your locally cloned repos, use `./reset-all-repos`.
 
 ### Update from meta script
 
