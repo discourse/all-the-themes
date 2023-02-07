@@ -108,7 +108,6 @@ discourse/discourse-thin-header-theme-component
 discourse/discourse-dark-admin-editor
 tshenry/discourse-last-seen-user-card-theme-component
 featheredtoast/discourse-moonclaw-theme
-kurozael/discourse-timefuser
 discourse/discourse-group-timezones
 justindirose/fireside-player
 davidtaylorhq/discourse-snow-theme
