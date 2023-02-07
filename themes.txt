@@ -216,3 +216,4 @@ discourse/discourse-table-builder
 ReCODE-Health/discourse-doc-preview
 VaperinaDEV/discourse-mobile-sticky-avatars
 discourse/discourse-upload-consent
+discourse/discourse-onboarding-banner
