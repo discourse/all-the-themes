@@ -216,3 +216,4 @@ ReCODE-Health/discourse-doc-preview
 VaperinaDEV/discourse-mobile-sticky-avatars
 discourse/discourse-upload-consent
 discourse/discourse-category-featured-image-links
+meghnaAJ/discourse-modest-theme
