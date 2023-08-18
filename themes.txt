@@ -74,7 +74,6 @@ discourse/discourse-hide-users-column
 discourse/discourse-homepage-feature-component
 discourse/discourse-icon
 discourse/discourse-icon-header-links
-discourse/discourse-icon-header-links
 discourse/discourse-image-annotator
 discourse/discourse-insert-video
 discourse/discourse-intercom-widget
