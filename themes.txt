@@ -67,7 +67,6 @@ discourse/discourse-gated-topics-in-category
 discourse/discourse-gifs
 discourse/discourse-google-font-component
 discourse/discourse-group-alert
-discourse/discourse-group-timezones
 discourse/discourse-hamburger-theme-selector
 discourse/discourse-header-search
 discourse/discourse-header-submenus
@@ -111,7 +110,6 @@ discourse/discourse-tag-banners
 discourse/discourse-tag-icons
 discourse/discourse-theme-hibiscus
 discourse/discourse-thin-header-theme-component
-discourse/discourse-three-columns-banner
 discourse/Discourse-Tiles-image-gallery
 discourse/discourse-top-contributors-sidebar
 discourse/discourse-topic-author
@@ -137,9 +135,7 @@ discourse/hljs-theme-picker
 discourse/material-design-stock-theme
 discourse/minima
 discourse/new-like-icon
-discourse/raw-post-button
 discourse/remove-name-suppression-on-posts
-discourse/Scrollable-post-content
 discourse/tc-theme
 discourse/unformatted_code_detector
 discourse/zeronoise
