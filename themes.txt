@@ -32,6 +32,7 @@ davidtaylorhq/discourse-media-overlay-theme
 davidtaylorhq/discourse-media-recorder-theme
 davidtaylorhq/discourse-post-height-detective
 davidtaylorhq/discourse-snow-theme
+discourse/core-web-vitals-analytics-theme
 discourse/DiscoTOC
 discourse/discourse-air
 discourse/discourse-alt-logo
