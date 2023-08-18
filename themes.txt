@@ -81,7 +81,6 @@ discourse/discourse-jitsi
 discourse/discourse-kanban-theme
 discourse/discourse-like-column
 discourse/discourse-linkify-words
-discourse/discourse-loading-slider
 discourse/discourse-locale-switcher
 discourse/discourse-localized-header-nav
 discourse/discourse-maintenance-message
