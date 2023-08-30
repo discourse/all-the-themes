@@ -61,7 +61,6 @@ discourse/discourse-disable-reply-jump
 discourse/discourse-docs-card-filter
 discourse/Discourse-easy-footer
 discourse/discourse-emoji-mention
-discourse/discourse-excluded-logins
 discourse/discourse-featured-tiles
 discourse/discourse-featured-tiles-link
 discourse/discourse-gated-topics-in-category
