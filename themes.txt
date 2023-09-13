@@ -83,6 +83,7 @@ discourse/discourse-like-column
 discourse/discourse-linkify-words
 discourse/discourse-locale-switcher
 discourse/discourse-localized-header-nav
+discourse/discourse-material-icons
 discourse/discourse-maintenance-message
 discourse/discourse-media-events
 discourse/discourse-mobile-dismiss
