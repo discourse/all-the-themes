@@ -83,8 +83,8 @@ discourse/discourse-like-column
 discourse/discourse-linkify-words
 discourse/discourse-locale-switcher
 discourse/discourse-localized-header-nav
-discourse/discourse-material-icons
 discourse/discourse-maintenance-message
+discourse/discourse-material-icons
 discourse/discourse-media-events
 discourse/discourse-mobile-dismiss
 discourse/discourse-mobile-op-avatar-component
@@ -125,6 +125,7 @@ discourse/discourse-users-nav
 discourse/discourse-vincent-theme
 discourse/discourse-wcag-contrast
 discourse/discourse-whereby
+discourse/experimental-usercard
 discourse/Fakebook
 discourse/featured-link-quick-access
 discourse/ghost
