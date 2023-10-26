@@ -7,7 +7,12 @@ gemfile do
   gem "mass_git_clone", "0.1.1"
 end
 
-FileUtils.rm_rf("#{__dir__}/themes") # Old path
+if File.exist?("#{__dir__}/themes") && !File.exist?("#{__dir__}/third-party") && !File.exist?("#{__dir__}/official")
+  # Automatically migrate to new structure without losing git repo state
+  # (removed after April 2024)
+  FileUtils.cp_r("#{__dir__}/themes", "#{__dir__}/third-party")
+  FileUtils.mv("#{__dir__}/themes", "#{__dir__}/official")
+end
 
 targets = %w[official third-party]
 
