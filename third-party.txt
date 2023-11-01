@@ -21,6 +21,7 @@ Chaboi45/Typewriter-theme
 chrisbeach/discourse-compact-member-list
 chrisbeach/discourse-pulsing-alerts
 chrisbeach/discourse-team-tweaks
+communiteq/discourse-tc-monday-css
 communiteq/discourse-tc-reftagger
 communiteq/plugin-outlets-theme-component
 daemonite/discourse-clipboard
@@ -73,6 +74,7 @@ naidihr/discourse-topic-template-placeholders
 notriddle/discourse-duckduckgo-search
 OsamaSayegh/discourse-tab-bar-theme
 paviliondev/category-highlighter
+paviliondev/discourse-tc-topic-list-previews
 paviliondev/live-topic-timer
 pfaffman/discourse-allow-arbitrary-homepage
 pmusaraj/discourse-dark-mode
