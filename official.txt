@@ -1,4 +1,3 @@
-discourse-org/meta-branded-theme
 discourse/DiscoTOC
 discourse/Discourse-Slick-image-gallery
 discourse/Discourse-Tiles-image-gallery
