@@ -87,6 +87,7 @@ discourse/discourse-heroicons-outline
 discourse/discourse-hide-auth-method
 discourse/discourse-hide-muted-categories
 discourse/discourse-hide-users-column
+discourse/discourse-highlightjs-glimmer
 discourse/discourse-highlightjs-rpm
 discourse/discourse-highlightjs-structured-text
 discourse/discourse-homepage-feature-component
@@ -130,6 +131,7 @@ discourse/discourse-pm-dropdown-button
 discourse/discourse-poll-banner
 discourse/discourse-post-badges
 discourse/discourse-post-height-detective
+discourse/discourse-post-quote-copy-to-clipboard-component
 discourse/discourse-post-wizard
 discourse/discourse-quick-whisper
 discourse/discourse-radiant-theme
