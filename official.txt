@@ -136,6 +136,7 @@ discourse/discourse-post-wizard
 discourse/discourse-quick-whisper
 discourse/discourse-radiant-theme
 discourse/discourse-referrer-banner
+discourse/discourse-remove-dashes-from-tag-names
 discourse/discourse-reply-template-component
 discourse/discourse-review-ip-lookup
 discourse/discourse-right-sidebar-blocks
