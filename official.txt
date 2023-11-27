@@ -189,7 +189,6 @@ discourse/discourse-versatile-banner
 discourse/discourse-vincent-theme
 discourse/discourse-wcag-contrast
 discourse/discourse-welcome-link-banner
-discourse/discourse-whereby
 discourse/discourse-whisper-warning
 discourse/embedded-replies
 discourse/experimental-usercard
