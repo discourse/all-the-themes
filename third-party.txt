@@ -39,6 +39,7 @@ featheredtoast/discourse-as-dark-theme
 featheredtoast/discourse-left-menu-theme-component
 featheredtoast/discourse-moonclaw-theme
 fefrei/discourse-tiger-stripes
+godotengine/discourse-theme
 hnb-ku/discourse-iframe-lightboxes
 hnb-ku/StackBlur-backgrounds-discourse-theme-component
 iji-cx/discourse-yotsuba
