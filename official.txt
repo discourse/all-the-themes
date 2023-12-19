@@ -5,7 +5,6 @@ discourse/Discourse-easy-footer
 discourse/Discourse-nav-links-component
 discourse/Fakebook
 discourse/avid-reader
-discourse/bbcode-tag-autocomplete
 discourse/bookmark-modal-redesign-component
 discourse/category-boxes-topic-count
 discourse/class-thief-detective
@@ -34,6 +33,7 @@ discourse/discourse-category-groups-component
 discourse/discourse-category-icons
 discourse/discourse-category-search-filters
 discourse/discourse-category-sidebars
+discourse/discourse-celebration-animation
 discourse/discourse-chart-color-override
 discourse/discourse-classic
 discourse/discourse-clickable-topic
@@ -176,7 +176,6 @@ discourse/discourse-topic-thumbnails
 discourse/discourse-totp-markdown
 discourse/discourse-trendy-login
 discourse/discourse-unanswered-filter
-discourse/discourse-unanswered-filter-link
 discourse/discourse-unicons
 discourse/discourse-upload-consent
 discourse/discourse-user-card-directory
