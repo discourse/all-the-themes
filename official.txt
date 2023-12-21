@@ -151,6 +151,7 @@ discourse/discourse-simple-banner
 discourse/discourse-simple-theme
 discourse/discourse-sketch
 discourse/discourse-social-share
+discourse/discourse-splash-screen
 discourse/discourse-stat-banner
 discourse/discourse-sublime-theme
 discourse/discourse-svgbob
