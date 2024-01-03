@@ -107,6 +107,9 @@ discourse/discourse-localized-header-nav
 discourse/discourse-maintenance-message
 discourse/discourse-material-design-icons-filled
 discourse/discourse-material-design-icons-outlined
+discourse/discourse-material-design-icons-rounded
+discourse/discourse-material-design-icons-sharp
+discourse/discourse-material-design-icons-twotone
 discourse/discourse-material-icons
 discourse/discourse-matomo-analytics
 discourse/discourse-media-events
