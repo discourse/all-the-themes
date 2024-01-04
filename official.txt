@@ -206,6 +206,7 @@ discourse/inky-theme
 discourse/material-design-stock-theme
 discourse/minima
 discourse/new-like-icon
+discourse/raw-post-button
 discourse/remove-name-suppression-on-posts
 discourse/sidebar-skeleton-component
 discourse/tc-theme
