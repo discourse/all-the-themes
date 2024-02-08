@@ -1,5 +1,4 @@
 akachinonyerem/sunflower-theme
-angusmcleod/discourse-header-search-theme
 angusmcleod/discourse-welcome-page
 awesomerobot/atlas
 awesomerobot/discourse-button-styles
