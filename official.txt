@@ -171,6 +171,7 @@ discourse/discourse-theme-skeleton
 discourse/discourse-thin-header-theme-component
 discourse/discourse-top-contributors-sidebar
 discourse/discourse-topic-author
+discourse/discourse-topic-cards
 discourse/discourse-topic-category-gallery-component
 discourse/discourse-topic-excerpts
 discourse/discourse-topic-featured-link-banner
