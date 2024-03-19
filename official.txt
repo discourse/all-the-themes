@@ -154,7 +154,6 @@ discourse/discourse-sidebar-theme-toggle
 discourse/discourse-signup-banner
 discourse/discourse-simple-banner
 discourse/discourse-simple-theme
-discourse/discourse-site-credit-component
 discourse/discourse-sketch
 discourse/discourse-social-share
 discourse/discourse-splash-screen
