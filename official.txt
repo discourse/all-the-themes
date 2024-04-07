@@ -57,6 +57,7 @@ discourse/discourse-default-composer-category
 discourse/discourse-dev-utils
 discourse/discourse-dice
 discourse/discourse-disable-reply-jump
+discourse/discourse-discover-theme
 discourse/discourse-docs-card-filter
 discourse/discourse-emoji-mention
 discourse/discourse-enable-service-worker-on-apple-devices
