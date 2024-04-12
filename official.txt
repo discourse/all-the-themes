@@ -73,7 +73,6 @@ discourse/discourse-full-width-component
 discourse/discourse-fully
 discourse/discourse-gated-topics-in-category
 discourse/discourse-gifs
-discourse/discourse-global-header-menu
 discourse/discourse-google-font-component
 discourse/discourse-graphviz-theme-component
 discourse/discourse-group-alert
