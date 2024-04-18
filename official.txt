@@ -4,6 +4,7 @@ discourse/Discourse-Tiles-image-gallery
 discourse/Discourse-easy-footer
 discourse/Discourse-nav-links-component
 discourse/Fakebook
+discourse/Scrollable-post-content
 discourse/avid-reader
 discourse/bookmark-modal-redesign-component
 discourse/category-boxes-topic-count
@@ -210,6 +211,7 @@ discourse/material-design-stock-theme
 discourse/minima
 discourse/new-like-icon
 discourse/raw-post-button
+discourse/reader-mode
 discourse/remove-name-suppression-on-posts
 discourse/sidebar-skeleton-component
 discourse/tc-theme
