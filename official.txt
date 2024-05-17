@@ -94,6 +94,7 @@ discourse/discourse-highlightjs-glimmer
 discourse/discourse-highlightjs-rpm
 discourse/discourse-highlightjs-structured-text
 discourse/discourse-homepage-feature-component
+discourse/discourse-huggingface-theme
 discourse/discourse-icon
 discourse/discourse-icon-header-links
 discourse/discourse-iframe-lightboxes
