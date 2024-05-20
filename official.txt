@@ -10,6 +10,7 @@ discourse/bookmark-modal-redesign-component
 discourse/category-boxes-topic-count
 discourse/class-thief-detective
 discourse/clean-export
+discourse/composer-peek
 discourse/core-web-vitals-analytics-theme
 discourse/debug-quick-access
 discourse/discourse-add-category-column
