@@ -34,7 +34,6 @@ discourse/discourse-category-featured-image-links
 discourse/discourse-category-groups-component
 discourse/discourse-category-icons
 discourse/discourse-category-search-filters
-discourse/discourse-category-sidebars
 discourse/discourse-celebration-animation
 discourse/discourse-chart-color-override
 discourse/discourse-classic
@@ -180,6 +179,7 @@ discourse/discourse-topic-category-gallery-component
 discourse/discourse-topic-excerpts
 discourse/discourse-topic-featured-link-banner
 discourse/discourse-topic-group-button-component
+discourse/discourse-topic-list-sidebars
 discourse/discourse-topic-list-solution-highlight
 discourse/discourse-topic-print-component
 discourse/discourse-topic-status-filter
