@@ -127,7 +127,6 @@ discourse/discourse-mobile-dismiss
 discourse/discourse-mobile-op-avatar-component
 discourse/discourse-new-topic-button-theme-component
 discourse/discourse-new-topic-dropdown
-discourse/discourse-old-android-warning-banner-lets-encrypt-changes
 discourse/discourse-optional-title-mobile-header
 discourse/discourse-orgchart
 discourse/discourse-pdf-previews
@@ -163,6 +162,7 @@ discourse/discourse-splash-screen
 discourse/discourse-stat-banner
 discourse/discourse-sublime-theme
 discourse/discourse-svgbob
+discourse/discourse-swift-forums-theme
 discourse/discourse-table-builder
 discourse/discourse-table-functions
 discourse/discourse-tag-banners
