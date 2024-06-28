@@ -60,6 +60,7 @@ discourse/discourse-dice
 discourse/discourse-disable-reply-jump
 discourse/discourse-discover-theme
 discourse/discourse-docs-card-filter
+discourse/discourse-docs-sidebar
 discourse/discourse-emoji-mention
 discourse/discourse-enable-service-worker-on-apple-devices
 discourse/discourse-excalidraw-embed
@@ -72,6 +73,7 @@ discourse/discourse-fedora-hamburger
 discourse/discourse-focused-fullscreen-chat
 discourse/discourse-follow-category
 discourse/discourse-full-width-component
+discourse/discourse-fullscreen-composer-component
 discourse/discourse-fully
 discourse/discourse-gated-topics-in-category
 discourse/discourse-gifs
