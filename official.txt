@@ -219,7 +219,6 @@ discourse/raw-post-button
 discourse/reader-mode
 discourse/remove-name-suppression-on-posts
 discourse/sidebar-skeleton-component
-discourse/tc-theme
 discourse/uipath-taggroup-styles
 discourse/uipath-tile-styles
 discourse/unformatted-code-detector
