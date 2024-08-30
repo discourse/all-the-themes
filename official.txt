@@ -8,7 +8,6 @@ discourse/Scrollable-post-content
 discourse/avid-reader
 discourse/bookmark-modal-redesign-component
 discourse/category-boxes-topic-count
-discourse/class-thief-detective
 discourse/clean-export
 discourse/composer-peek
 discourse/core-web-vitals-analytics-theme
@@ -17,6 +16,7 @@ discourse/discourse-add-category-column
 discourse/discourse-air
 discourse/discourse-alt-logo
 discourse/discourse-apple-add-to-homescreen
+discourse/discourse-ask-theme
 discourse/discourse-atlassian-statuspage
 discourse/discourse-avatar-component
 discourse/discourse-baidu-search
