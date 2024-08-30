@@ -153,6 +153,7 @@ discourse/discourse-search-banner
 discourse/discourse-share-link-shortener
 discourse/discourse-showcased-categories
 discourse/discourse-sidebar-category-nav
+discourse/discourse-sidebar-nested-categories
 discourse/discourse-sidebar-tags
 discourse/discourse-sidebar-theme-toggle
 discourse/discourse-signup-banner
