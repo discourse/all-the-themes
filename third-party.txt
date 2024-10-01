@@ -4,7 +4,6 @@ awesomerobot/atlas
 awesomerobot/discourse-button-styles
 awesomerobot/discourse-header-theme-toggle
 awesomerobot/discourse-isabelle-theme
-awesomerobot/discourse-mute-button
 awesomerobot/discourse-popular-tag-sidebar
 awesomerobot/discourse-sidebar-nav
 awesomerobot/discourse-tag-sidebars
