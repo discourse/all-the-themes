@@ -72,6 +72,7 @@ discourse/discourse-featured-tiles-link
 discourse/discourse-fedora-hamburger
 discourse/discourse-focused-fullscreen-chat
 discourse/discourse-follow-category
+discourse/discourse-free-theme
 discourse/discourse-full-width-component
 discourse/discourse-fullscreen-composer-component
 discourse/discourse-fully
