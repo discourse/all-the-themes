@@ -13,6 +13,7 @@ discourse/composer-peek
 discourse/core-web-vitals-analytics-theme
 discourse/debug-quick-access
 discourse/discourse-add-category-column
+discourse/discourse-add-groups-to-about-component
 discourse/discourse-air
 discourse/discourse-alt-logo
 discourse/discourse-apple-add-to-homescreen
