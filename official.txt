@@ -184,6 +184,7 @@ discourse/discourse-topic-category-gallery-component
 discourse/discourse-topic-excerpts
 discourse/discourse-topic-featured-link-banner
 discourse/discourse-topic-group-button-component
+discourse/discourse-topic-list-author
 discourse/discourse-topic-list-sidebars
 discourse/discourse-topic-list-solution-highlight
 discourse/discourse-topic-print-component
@@ -222,7 +223,6 @@ discourse/raw-post-button
 discourse/reader-mode
 discourse/remove-name-suppression-on-posts
 discourse/sidebar-skeleton-component
-discourse/topic-list-author
 discourse/uipath-taggroup-styles
 discourse/uipath-tile-styles
 discourse/unformatted-code-detector
