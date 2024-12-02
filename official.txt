@@ -24,7 +24,6 @@ discourse/discourse-baidu-search
 discourse/discourse-banner-blocks-component
 discourse/discourse-big-carousel-component
 discourse/discourse-blank-theme
-discourse/discourse-bookmark-menu
 discourse/discourse-brand-header
 discourse/discourse-categories-navbar
 discourse/discourse-categories-tag-column
@@ -70,7 +69,6 @@ discourse/discourse-feather-icons
 discourse/discourse-featured-tiles
 discourse/discourse-featured-tiles-link
 discourse/discourse-fedora-hamburger
-discourse/discourse-focused-fullscreen-chat
 discourse/discourse-follow-category
 discourse/discourse-free-theme
 discourse/discourse-full-width-component
