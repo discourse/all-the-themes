@@ -145,6 +145,7 @@ discourse/discourse-profile-custom-link
 discourse/discourse-pronunciation
 discourse/discourse-quick-whisper
 discourse/discourse-radiant-theme
+discourse/discourse-redditish-theme
 discourse/discourse-referrer-banner
 discourse/discourse-remove-dashes-from-tag-names
 discourse/discourse-reply-template-component
