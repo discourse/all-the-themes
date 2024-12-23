@@ -28,7 +28,6 @@ davidkingham/Scroll-to-Top
 davidtaylorhq/discourse-admin-warnings
 davidtaylorhq/discourse-media-overlay-theme
 davidtaylorhq/discourse-media-recorder-theme
-davidtaylorhq/discourse-post-height-detective
 davidtaylorhq/discourse-snow-theme
 ember-learn/discourse-emberjs-theme
 evgip/discourse-classic-theme
