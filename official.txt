@@ -6,7 +6,6 @@ discourse/Discourse-nav-links-component
 discourse/Fakebook
 discourse/Scrollable-post-content
 discourse/avid-reader
-discourse/bookmark-modal-redesign-component
 discourse/category-boxes-topic-count
 discourse/clean-export
 discourse/composer-peek
