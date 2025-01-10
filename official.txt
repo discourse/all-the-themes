@@ -42,6 +42,7 @@ discourse/discourse-color-scheme-toggle
 discourse/discourse-colorful-categories
 discourse/discourse-compact-nav
 discourse/discourse-composer-dropdown-pm
+discourse/discourse-copy-post
 discourse/discourse-coupa-login
 discourse/discourse-custom-category-boxes-component
 discourse/discourse-custom-category-filters
