@@ -5,6 +5,7 @@ discourse/Discourse-easy-footer
 discourse/Discourse-nav-links-component
 discourse/Fakebook
 discourse/Scrollable-post-content
+discourse/automatic-timezone
 discourse/avid-reader
 discourse/category-boxes-topic-count
 discourse/clean-export
@@ -125,7 +126,6 @@ discourse/discourse-minimal-category-boxes
 discourse/discourse-minimal-footer
 discourse/discourse-minimal-welcome-banner
 discourse/discourse-mint-theme
-discourse/discourse-mobile-dismiss
 discourse/discourse-mobile-op-avatar-component
 discourse/discourse-new-topic-button-theme-component
 discourse/discourse-new-topic-dropdown
@@ -149,7 +149,6 @@ discourse/discourse-redditish-theme
 discourse/discourse-referrer-banner
 discourse/discourse-remove-dashes-from-tag-names
 discourse/discourse-reply-template-component
-discourse/discourse-review-ip-lookup
 discourse/discourse-right-sidebar-blocks
 discourse/discourse-search-banner
 discourse/discourse-share-link-shortener
