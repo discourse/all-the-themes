@@ -206,7 +206,6 @@ discourse/discourse-welcome-link-banner
 discourse/discourse-whisper-warning
 discourse/embedded-replies
 discourse/experimental-usercard
-discourse/fakebook-modern
 discourse/ghost
 discourse/github-status-theme
 discourse/graceful
