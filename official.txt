@@ -223,4 +223,5 @@ discourse/sidebar-skeleton-component
 discourse/uipath-taggroup-styles
 discourse/uipath-tile-styles
 discourse/unformatted-code-detector
+discourse/www-theme
 discourse/zeronoise
