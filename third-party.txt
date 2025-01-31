@@ -35,7 +35,7 @@ featheredtoast/discourse-as-dark-theme
 featheredtoast/discourse-left-menu-theme-component
 featheredtoast/discourse-moonclaw-theme
 fefrei/discourse-tiger-stripes
-godotengine/discourse-theme
+godotengine/discourse-theme godotengine
 hnb-ku/discourse-iframe-lightboxes
 hnb-ku/StackBlur-backgrounds-discourse-theme-component
 iji-cx/discourse-yotsuba
@@ -47,7 +47,7 @@ iunctis/md-topic-list
 jjaffeux/discourse-random-invitee-list
 joebuhlig/personal-discourse-theme
 justindirose/fireside-player
-Kodular-Community/Discourse-Theme
+Kodular-Community/Discourse-Theme kodular-community
 LeoMcA/namati-user-card-profile-theme
 magjac/discourse-d3-graphviz
 meghnaAJ/discourse-christmas-decorations
