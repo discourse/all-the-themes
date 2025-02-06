@@ -12,6 +12,7 @@ discourse/clean-export
 discourse/composer-peek
 discourse/core-web-vitals-analytics-theme
 discourse/debug-quick-access
+discourse/density-toggle
 discourse/discourse-add-category-column
 discourse/discourse-add-groups-to-about-component
 discourse/discourse-air
@@ -149,6 +150,7 @@ discourse/discourse-redditish-theme
 discourse/discourse-referrer-banner
 discourse/discourse-remove-dashes-from-tag-names
 discourse/discourse-reply-template-component
+discourse/discourse-require-edit-reason
 discourse/discourse-right-sidebar-blocks
 discourse/discourse-search-banner
 discourse/discourse-share-link-shortener
