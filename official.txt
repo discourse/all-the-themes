@@ -40,7 +40,6 @@ discourse/discourse-central-theme
 discourse/discourse-chart-color-override
 discourse/discourse-classic
 discourse/discourse-clickable-topic
-discourse/discourse-color-scheme-toggle
 discourse/discourse-colorful-categories
 discourse/discourse-compact-nav
 discourse/discourse-composer-dropdown-pm
