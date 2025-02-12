@@ -83,7 +83,6 @@ scossar/discourse-segment-theme-component
 t1-tracey/arctic-sunrise-theme
 tavoweb/TavoWEB-theme
 tshenry/discourse-add-category-column
-tshenry/discourse-alternative-voting-category-style
 tshenry/discourse-big-header-little-header
 tshenry/discourse-blog-post-styling
 tshenry/discourse-categories-layout-override
