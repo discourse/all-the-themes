@@ -132,7 +132,6 @@ discourse/discourse-mobile-op-avatar-component
 discourse/discourse-new-topic-button-theme-component
 discourse/discourse-new-topic-dropdown
 discourse/discourse-optional-title-mobile-header
-discourse/discourse-orgchart
 discourse/discourse-pdf-previews
 discourse/discourse-phosphor-duotone-icons
 discourse/discourse-placeholder-theme-component
