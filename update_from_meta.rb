@@ -1,55 +1,41 @@
-require 'json'
-require 'open-uri'
+require "json"
+require "open-uri"
 
-$existing_modules = File.read('.gitmodules')
-                        .split("\n")
-                        .map{ |line|
-                          if line =~ /url =(.*)/
-                            name = $1.strip
-                            name.sub!(".git", "")
-                            name.sub!(/http[s]?:\/\//, "")
-                          end
-                        }
-                        .compact
+$existing_themes =
+  File.read("third-party.txt").split("\n").compact + File.read("official.txt").split("\n").compact
+$list = []
 
 def ensure_repo(title, topic_url)
   return if title =~ /about the theme category/i
 
-  result = open(topic_url).read
+  result = URI.open(topic_url).read
   json = JSON.parse(result)
 
   op_body = json["post_stream"]["posts"][0]["cooked"]
 
-  first_github = nil
-  op_body.scan(/href=['"](http[^'"]+github[^'"]+)/i) do
-    first_github = $1
-    unless first_github =~ /issuecomment/
-      break
-    end
-  end
+  match = op_body.scan(%r{https://github\.com/[A-Z0-9_\-]+/[A-Z0-9_\-]+}i)
+  github_url = match && match[-1]
 
-  if first_github
-    if $existing_modules.any?{|m| first_github.include?(m)}
-      return
-    end
-  end
+  return if !github_url
+  return if $existing_themes.any? { |m| github_url.include?(m) }
 
-  if first_github
-    puts "Add #{title}: #{first_github} (Y/n)"
-    text = readline
-    unless text =~ /n/
-      name = first_github.sub(".git", "").split("/").last
-      cmd = "git submodule add #{first_github} themes/#{name}"
-      puts cmd
-      puts `#{cmd}`
-    end
-  end
+  repo = github_url.sub("https://github.com/", "")
 
+  puts title
+  puts topic_url.sub(".json", "")
+  puts github_url
+  print "Add? (Y/n) "
+  text = readline
+
+  $list << repo if text =~ /n/
+
+  puts "\n"
 end
 
-url = 'https://meta.discourse.org/c/theme/none.json'
+url = "https://meta.discourse.org/c/theme/none.json"
+
 begin
-  result = open(url).read
+  result = URI.open(url).read
   json = JSON.parse(result)
 
   topic_list = json["topic_list"]
@@ -65,3 +51,5 @@ begin
   url = "https://meta.discourse.org#{topic_list["more_topics_url"]}"
   url = url.sub("latest", "latest.json")
 end while topics.length > 0
+
+puts $list
