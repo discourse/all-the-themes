@@ -29,6 +29,7 @@ davidtaylorhq/discourse-admin-warnings
 davidtaylorhq/discourse-media-overlay-theme
 davidtaylorhq/discourse-media-recorder-theme
 davidtaylorhq/discourse-snow-theme
+dracula/discourse dracula
 ember-learn/discourse-emberjs-theme
 evgip/discourse-classic-theme
 featheredtoast/discourse-as-dark-theme
@@ -47,19 +48,28 @@ iunctis/md-topic-list
 jjaffeux/discourse-random-invitee-list
 joebuhlig/personal-discourse-theme
 justindirose/fireside-player
+Kodular-Community/Discourse-Theme
 Kodular-Community/Discourse-Theme kodular-community
 LeoMcA/namati-user-card-profile-theme
+Lhcfl/discourse-theme-clean
 magjac/discourse-d3-graphviz
 meghnaAJ/discourse-christmas-decorations
 meghnaAJ/discourse-custom-loading-spinner
+meghnaAJ/discourse-elementary-theme
+meghnaAJ/discourse-essential-theme
+MeghnaAJ/discourse-fire-ice-theme
 meghnaAJ/discourse-fireworks
+meghnaAJ/discourse-geometric-theme
 meghnaAJ/discourse-grogu-theme
 meghnaAJ/discourse-mario-theme
 meghnaAJ/discourse-modest-theme
 MeghnaAJ/discourse-olaf-theme
 meghnaAJ/discourse-peacock-theme
+MeghnaAJ/discourse-popsicle-theme
+meghnaAJ/discourse-rainbow-theme
 MeghnaAJ/discourse-santa-theme
 meghnaAJ/discourse-solarized-theme
+melhosseiny/rome
 merefield/discourse-quick-quote
 metabrainz/discourse-abbrify-words
 muhlisbc/discourse-automatic-night-mode-theme
@@ -69,13 +79,21 @@ naidihr/discourse-category-headers
 naidihr/discourse-message-bubbles
 naidihr/discourse-star-wars-theme
 naidihr/discourse-topic-template-placeholders
+NateDhaliwal/NateDhaliwal-s-Theme
+nolosb/discourse-homepage-class
+nolosb/discourse-theme-kiosk
+nolosb/discourse-theme-pinboard
+nolosb/discourse-theme-transit
 notriddle/discourse-duckduckgo-search
+ondrej2004/blue
 OsamaSayegh/discourse-tab-bar-theme
 paviliondev/category-highlighter
 paviliondev/discourse-tc-topic-list-previews
 paviliondev/live-topic-timer
 pfaffman/discourse-allow-arbitrary-homepage
 pmusaraj/discourse-dark-mode
+pyxfluff/Blackout
+pyxfluff/darkpixlz-Modern-Theme
 ReCODE-Health/discourse-doc-preview
 sbernhard/discourse-add-category-links
 sbernhard/discourse-highlight-text
@@ -101,6 +119,7 @@ tshenry/discourse-versatile-banner
 twimbit/neomorphism-discourse
 udan11/discourse-units
 VaperinaDEV/discourse-mobile-sticky-avatars
+VaperinaDEV/fkb-pro-theme
 worldismine/lazy-canned-responses
 wyzelabs/discourse-wyze-theme
 xfalcox/discourse-refresh-latest-footer
