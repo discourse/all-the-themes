@@ -209,7 +209,6 @@ discourse/discourse-wcag-contrast
 discourse/discourse-welcome-link-banner
 discourse/discourse-whisper-warning
 discourse/embedded-replies
-discourse/experimental-usercard
 discourse/ghost
 discourse/github-status-theme
 discourse/graceful
