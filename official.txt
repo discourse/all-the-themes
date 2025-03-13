@@ -1,4 +1,4 @@
-discourse-org/nextgen-theme
+discourse-org/horizon
 discourse/DiscoTOC
 discourse/Discourse-Slick-image-gallery
 discourse/Discourse-Tiles-image-gallery
