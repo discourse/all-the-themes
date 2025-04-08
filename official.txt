@@ -212,6 +212,7 @@ discourse/github-status-theme
 discourse/graceful
 discourse/header-category-dropdown
 discourse/hljs-theme-picker
+discourse/horizon
 discourse/image-optimizer
 discourse/inky-theme
 discourse/material-design-stock-theme
