@@ -168,7 +168,6 @@ discourse/discourse-stat-banner
 discourse/discourse-sublime-theme
 discourse/discourse-svgbob
 discourse/discourse-swift-forums-theme
-discourse/discourse-table-builder
 discourse/discourse-table-functions
 discourse/discourse-tag-banners
 discourse/discourse-tag-group-filters
