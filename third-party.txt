@@ -72,7 +72,6 @@ meghnaAJ/discourse-solarized-theme
 melhosseiny/rome
 merefield/discourse-quick-quote
 metabrainz/discourse-abbrify-words
-muhlisbc/discourse-automatic-night-mode-theme
 muhlisbc/discourse-post-views-counter-theme
 naidihr/discourse-bug-theme
 naidihr/discourse-category-headers
@@ -94,7 +93,6 @@ pfaffman/discourse-allow-arbitrary-homepage
 pmusaraj/discourse-dark-mode
 pyxfluff/Blackout
 pyxfluff/darkpixlz-Modern-Theme
-ReCODE-Health/discourse-doc-preview
 sbernhard/discourse-add-category-links
 sbernhard/discourse-highlight-text
 scossar/discourse-segment-theme-component
