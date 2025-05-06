@@ -200,7 +200,6 @@ discourse/discourse-user-menu-tab
 discourse/discourse-user-portfolio
 discourse/discourse-users-nav
 discourse/discourse-versatile-banner
-discourse/discourse-vincent-theme
 discourse/discourse-wcag-contrast
 discourse/discourse-welcome-link-banner
 discourse/discourse-whisper-warning
