@@ -14,7 +14,7 @@ def ensure_repo(title, topic_url)
   op_body = json["post_stream"]["posts"][0]["cooked"]
 
   match = op_body.scan(%r{https://github\.com/[A-Z0-9_\-]+/[A-Z0-9_\-]+}i)
-  github_url = match && match[-1]
+  github_url = match && match[1]
 
   return if !github_url
   return if $existing_themes.any? { |m| github_url.include?(m) }
@@ -32,24 +32,26 @@ def ensure_repo(title, topic_url)
   puts "\n"
 end
 
-url = "https://meta.discourse.org/c/theme/none.json"
+["https://meta.discourse.org/c/theme/none.json", "https://meta.discourse.org/c/theme-component/none.json"].each do |url|
+  begin
+    puts "Fetching topics from #{url}..."
 
-begin
-  result = URI.open(url).read
-  json = JSON.parse(result)
+    result = URI.open(url).read
+    json = JSON.parse(result)
 
-  topic_list = json["topic_list"]
-  topics = topic_list["topics"]
+    topic_list = json["topic_list"]
+    topics = topic_list["topics"]
 
-  topics.each do |topic|
-    topic_url = "https://meta.discourse.org/t/#{topic["slug"]}/#{topic["id"]}.json"
-    ensure_repo(topic["title"], topic_url)
-  end
+    topics.each do |topic|
+      topic_url = "https://meta.discourse.org/t/#{topic["slug"]}/#{topic["id"]}.json"
+      ensure_repo(topic["title"], topic_url)
+    end
 
-  break unless topic_list["more_topics_url"]
+    break unless topic_list["more_topics_url"]
 
-  url = "https://meta.discourse.org#{topic_list["more_topics_url"]}"
-  url = url.sub("latest", "latest.json")
-end while topics.length > 0
+    url = "https://meta.discourse.org#{topic_list["more_topics_url"]}"
+    url = url.sub("latest", "latest.json")
+  end while topics.length > 0
+end
 
 puts $list
