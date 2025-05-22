@@ -204,6 +204,7 @@ discourse/discourse-wcag-contrast
 discourse/discourse-welcome-link-banner
 discourse/discourse-whisper-warning
 discourse/embedded-replies
+discourse/footer-nav-experiment
 discourse/ghost
 discourse/github-status-theme
 discourse/graceful
