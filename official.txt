@@ -56,6 +56,7 @@ discourse/discourse-custom-header-links
 discourse/discourse-custom-logo-link
 discourse/discourse-custom-new-topic-text
 discourse/discourse-custom-topic-button-component
+discourse/discourse-custom-topic-list-ads-component
 discourse/discourse-customize-new-topic-button-text
 discourse/discourse-dark-admin-editor
 discourse/discourse-default-composer-category
