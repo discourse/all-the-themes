@@ -14,7 +14,6 @@ discourse/core-web-vitals-analytics-theme
 discourse/debug-quick-access
 discourse/density-toggle
 discourse/discourse-add-category-column
-discourse/discourse-add-groups-to-about-component
 discourse/discourse-air
 discourse/discourse-alt-logo
 discourse/discourse-alternative-voting-category-style
