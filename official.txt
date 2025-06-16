@@ -61,7 +61,6 @@ discourse/discourse-customize-new-topic-button-text
 discourse/discourse-dark-admin-editor
 discourse/discourse-default-composer-category
 discourse/discourse-dev-utils
-discourse/discourse-dice
 discourse/discourse-disable-reply-jump
 discourse/discourse-discover-theme
 discourse/discourse-docs-card-filter
