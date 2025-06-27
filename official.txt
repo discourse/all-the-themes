@@ -129,6 +129,7 @@ discourse/discourse-mint-theme
 discourse/discourse-mobile-op-avatar-component
 discourse/discourse-new-topic-button-theme-component
 discourse/discourse-new-topic-dropdown
+discourse/discourse-onetrust-preference-button
 discourse/discourse-optional-title-mobile-header
 discourse/discourse-pdf-previews
 discourse/discourse-phosphor-duotone-icons
