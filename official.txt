@@ -166,7 +166,6 @@ discourse/discourse-social-share
 discourse/discourse-splash-screen
 discourse/discourse-stat-banner
 discourse/discourse-sublime-theme
-discourse/discourse-svgbob
 discourse/discourse-swift-forums-theme
 discourse/discourse-table-functions
 discourse/discourse-tag-banners
