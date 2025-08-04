@@ -48,6 +48,7 @@ discourse/discourse-coupa-login
 discourse/discourse-custom-category-boxes-component
 discourse/discourse-custom-category-filters
 discourse/discourse-custom-code
+discourse/discourse-custom-composer-placeholders
 discourse/discourse-custom-contact-info
 discourse/discourse-custom-fields-on-groups-list
 discourse/discourse-custom-hamburger-links
