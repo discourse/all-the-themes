@@ -85,6 +85,7 @@ discourse/discourse-group-categories-page-override
 discourse/discourse-groups-css-classes-in-body
 discourse/discourse-halloween-decorations
 discourse/discourse-hamburger-theme-selector
+discourse/discourse-header-dropdown-links
 discourse/discourse-header-search
 discourse/discourse-header-submenus
 discourse/discourse-heroicons
