@@ -110,6 +110,7 @@ discourse/discourse-kanban-theme
 discourse/discourse-like-column
 discourse/discourse-linkify-words
 discourse/discourse-localized-header-nav
+discourse/discourse-lucide-icons
 discourse/discourse-maintenance-message
 discourse/discourse-mask
 discourse/discourse-material-design-icons-filled
