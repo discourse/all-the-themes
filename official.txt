@@ -23,7 +23,6 @@ discourse/discourse-atlassian-statuspage
 discourse/discourse-avatar-component
 discourse/discourse-baidu-search
 discourse/discourse-banner-blocks-component
-discourse/discourse-big-carousel-component
 discourse/discourse-blank-theme
 discourse/discourse-brand-header
 discourse/discourse-categories-navbar
