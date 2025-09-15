@@ -13,6 +13,7 @@ discourse/composer-peek
 discourse/core-web-vitals-analytics-theme
 discourse/debug-quick-access
 discourse/density-toggle
+discourse/discourse-above-header-banner
 discourse/discourse-add-category-column
 discourse/discourse-air
 discourse/discourse-alt-logo
