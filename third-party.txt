@@ -73,7 +73,6 @@ iji-cx/discourse-yotsuba
 iji-cx/discourse-yotsuba-b
 ip-tools/discourse-category-badge-theme-component
 ip-tools/discourse-material-theme-ample
-iunctis/md-composer-extras
 iunctis/md-topic-list
 jjaffeux/discourse-random-invitee-list
 joebuhlig/personal-discourse-theme
