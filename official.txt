@@ -141,7 +141,6 @@ discourse/discourse-post-badges
 discourse/discourse-post-height-detective
 discourse/discourse-post-quote-copy-to-clipboard-component
 discourse/discourse-post-wizard
-discourse/discourse-profile-custom-link
 discourse/discourse-pronunciation
 discourse/discourse-quick-whisper
 discourse/discourse-radiant-theme
