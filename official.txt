@@ -182,6 +182,7 @@ discourse/discourse-topic-group-button-component
 discourse/discourse-topic-list-author
 discourse/discourse-topic-list-sidebars
 discourse/discourse-topic-list-solution-highlight
+discourse/discourse-topic-list-tooltips
 discourse/discourse-topic-print-component
 discourse/discourse-topic-status-filter
 discourse/discourse-topic-thumbnails
