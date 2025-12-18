@@ -5,7 +5,6 @@ discourse/Discourse-easy-footer
 discourse/Discourse-nav-links-component
 discourse/Fakebook
 discourse/Scrollable-post-content
-discourse/automatic-timezone
 discourse/avid-reader
 discourse/category-boxes-topic-count
 discourse/clean-export
