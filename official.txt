@@ -58,7 +58,6 @@ discourse/discourse-custom-topic-button-component
 discourse/discourse-custom-topic-list-ads-component
 discourse/discourse-customize-new-topic-button-text
 discourse/discourse-dark-admin-editor
-discourse/discourse-default-composer-category
 discourse/discourse-dev-utils
 discourse/discourse-disable-reply-jump
 discourse/discourse-discover-theme
