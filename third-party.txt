@@ -12,14 +12,12 @@ Arkshine/discourse-quote-callouts
 Arkshine/discourse-watermark-image
 awesomerobot/atlas
 awesomerobot/discourse-button-styles
-awesomerobot/discourse-emoji-mention
 awesomerobot/discourse-header-theme-toggle
 awesomerobot/discourse-isabelle-theme
 awesomerobot/discourse-mute-button
 awesomerobot/discourse-popular-tag-sidebar
 awesomerobot/discourse-sidebar-nav
 awesomerobot/discourse-tag-sidebars
-awesomerobot/discourse-user-menu-tab
 B-iggy/alien-night-discourse-dark-theme
 B-iggy/discourse-theme-switcher
 barryvan/discourse-christmas-hats
@@ -67,7 +65,6 @@ fokx/discourse-marquee
 godotengine/discourse-theme godotengine
 gormus/discourse-filtered-topic-lists
 gormus/discourse-notification-banners
-hnb-ku/discourse-iframe-lightboxes
 hnb-ku/StackBlur-backgrounds-discourse-theme-component
 iji-cx/discourse-yotsuba
 iji-cx/discourse-yotsuba-b
@@ -165,13 +162,11 @@ paviliondev/layouts-tag-list-widget
 paviliondev/live-topic-timer
 pfaffman/discourse-allow-arbitrary-homepage
 pmusaraj/discourse-dark-mode
-pmusaraj/discourse-default-composer-category
 pushpinder6805/logout-header
 pyxfluff/Blackout
 pyxfluff/darkpixlz-Modern-Theme
 pyxfluff/moderntheme
 RailForWork/Discourse-Coloring-Tag
-SamSaffron/discourse-users-nav
 sbernhard/discourse-add-category-links
 sbernhard/discourse-highlight-text
 scossar/discourse-segment-theme-component
@@ -181,7 +176,6 @@ t1-tracey/discourse-lightweight-topic-container
 t1-tracey/discourse-minima-topic-card-adjustments
 tavoweb/TavoWEB-theme
 Toxuru/discourse-classic-theme
-tshenry/discourse-add-category-column
 tshenry/discourse-big-header-little-header
 tshenry/discourse-blog-post-styling
 tshenry/discourse-categories-layout-override
@@ -192,12 +186,9 @@ tshenry/discourse-hide-likes
 tshenry/discourse-last-seen-user-card-theme-component
 tshenry/discourse-mobile-category-list-adjustments
 tshenry/discourse-omit-emoji
-tshenry/discourse-require-edit-reason
 tshenry/discourse-restrict-uploads
 tshenry/discourse-topic-stopwatch
 tshenry/discourse-trust-level-avatar-flair
-tshenry/discourse-unanswered-filter
-tshenry/discourse-versatile-banner
 twimbit/neomorphism-discourse
 udan11/discourse-units
 VaperinaDEV/ai-post-analyzer-for-chat
