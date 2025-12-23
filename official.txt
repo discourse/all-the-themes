@@ -148,7 +148,6 @@ discourse/discourse-remove-dashes-from-tag-names
 discourse/discourse-reply-template-component
 discourse/discourse-require-edit-reason
 discourse/discourse-right-sidebar-blocks
-discourse/discourse-search-banner
 discourse/discourse-share-link-shortener
 discourse/discourse-showcased-categories
 discourse/discourse-sidebar-category-nav
