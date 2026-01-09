@@ -23,6 +23,7 @@ discourse/discourse-avatar-component
 discourse/discourse-baidu-search
 discourse/discourse-banner-blocks-component
 discourse/discourse-blank-theme
+discourse/discourse-blog-post-styling
 discourse/discourse-brand-header
 discourse/discourse-categories-navbar
 discourse/discourse-categories-tag-column
