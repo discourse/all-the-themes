@@ -126,6 +126,7 @@ discourse/discourse-minimal-footer
 discourse/discourse-minimal-welcome-banner
 discourse/discourse-mint-theme
 discourse/discourse-mobile-op-avatar-component
+discourse/discourse-new-topic-button-classes
 discourse/discourse-new-topic-button-theme-component
 discourse/discourse-new-topic-dropdown
 discourse/discourse-onetrust-preference-button
