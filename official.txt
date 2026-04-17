@@ -105,6 +105,7 @@ discourse/discourse-insert-video
 discourse/discourse-intercom-widget
 discourse/discourse-jitsi
 discourse/discourse-kanban-theme
+discourse/discourse-legacy-topic-voting-component
 discourse/discourse-like-column
 discourse/discourse-linkify-words
 discourse/discourse-localized-header-nav
