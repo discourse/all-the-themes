@@ -171,6 +171,7 @@ discourse/discourse-tag-group-topic-filter
 discourse/discourse-tag-icons
 discourse/discourse-theme-hibiscus
 discourse/discourse-theme-skeleton
+discourse/discourse-theme-skills
 discourse/discourse-thin-header-theme-component
 discourse/discourse-top-contributors-sidebar
 discourse/discourse-topic-cards
