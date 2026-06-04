@@ -169,6 +169,7 @@ discourse/discourse-tag-banners
 discourse/discourse-tag-group-filters
 discourse/discourse-tag-group-topic-filter
 discourse/discourse-tag-icons
+discourse/discourse-tags-only-component
 discourse/discourse-theme-hibiscus
 discourse/discourse-theme-skeleton
 discourse/discourse-theme-skills
