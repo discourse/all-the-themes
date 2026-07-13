@@ -16,6 +16,7 @@ discourse/discourse-add-category-column
 discourse/discourse-air
 discourse/discourse-alt-logo
 discourse/discourse-alternative-voting-category-style
+discourse/discourse-anonymous-email-contact
 discourse/discourse-apple-add-to-homescreen
 discourse/discourse-ask-theme
 discourse/discourse-atlassian-statuspage
@@ -161,6 +162,7 @@ discourse/discourse-simple-banner
 discourse/discourse-simple-theme
 discourse/discourse-social-share
 discourse/discourse-splash-screen
+discourse/discourse-staff-contact-pm-theme-component
 discourse/discourse-stat-banner
 discourse/discourse-sublime-theme
 discourse/discourse-swift-forums-theme
@@ -216,6 +218,7 @@ discourse/new-like-icon
 discourse/raw-post-button
 discourse/reader-mode
 discourse/remove-name-suppression-on-posts
+discourse/resenha-gaming-theme
 discourse/sidebar-skeleton-component
 discourse/social-logins-deprecations
 discourse/uipath-taggroup-styles
