@@ -213,6 +213,7 @@ discourse/header-category-dropdown
 discourse/hljs-theme-picker
 discourse/inky-theme
 discourse/material-design-stock-theme
+discourse/md-composer-extras
 discourse/minima
 discourse/new-like-icon
 discourse/raw-post-button
