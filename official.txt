@@ -164,6 +164,7 @@ discourse/discourse-social-share
 discourse/discourse-splash-screen
 discourse/discourse-staff-contact-pm-theme-component
 discourse/discourse-stat-banner
+discourse/discourse-subcategory-control-component
 discourse/discourse-sublime-theme
 discourse/discourse-swift-forums-theme
 discourse/discourse-table-functions
