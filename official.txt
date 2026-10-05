@@ -35,7 +35,6 @@ discourse/discourse-category-featured-image-links
 discourse/discourse-category-groups-component
 discourse/discourse-category-icons
 discourse/discourse-category-search-filters
-discourse/discourse-celebration-animation
 discourse/discourse-central-theme
 discourse/discourse-chart-color-override
 discourse/discourse-classic
