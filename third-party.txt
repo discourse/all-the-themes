@@ -144,7 +144,6 @@ moin-Jana/prefilled-composer-generator
 moin-Jana/related-category-permissions
 moin-Jana/share-theme-translations
 moin-Jana/sidebar-messages-section
-MonDiscourse/md-composer-extras
 mondiscourse/md-topic-list
 MonDiscourse/md-topic-list-mobile
 naidihr/discourse-bug-theme
