@@ -61,6 +61,7 @@ discourse/discourse-dark-admin-editor
 discourse/discourse-dev-utils
 discourse/discourse-disable-reply-jump
 discourse/discourse-discover-theme
+discourse/discourse-discovery-sidebar
 discourse/discourse-docs-card-filter
 discourse/discourse-emoji-mention
 discourse/discourse-experimental-filter-component
@@ -219,7 +220,6 @@ discourse/new-like-icon
 discourse/raw-post-button
 discourse/reader-mode
 discourse/remove-name-suppression-on-posts
-discourse/resenha-gaming-theme
 discourse/sidebar-skeleton-component
 discourse/social-logins-deprecations
 discourse/uipath-taggroup-styles
