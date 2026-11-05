@@ -107,6 +107,7 @@ discourse/discourse-insert-video
 discourse/discourse-intercom-widget
 discourse/discourse-jitsi
 discourse/discourse-kanban-theme
+discourse/discourse-katamari
 discourse/discourse-legacy-topic-voting-component
 discourse/discourse-like-column
 discourse/discourse-linkify-words
